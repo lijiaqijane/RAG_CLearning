@@ -1,0 +1,6 @@
+Title: Alex_Krizhevsky
+Alex Krizhevsky is a Ukrainian-born Canadian computer scientist most noted for his work on artificial neural networks and deep learning. Shortly after having won the ImageNet challenge in 2012 with AlexNet, he and his colleagues sold their startup, DNN Research Inc., to Google. Krizhevsky left Google in September 2017 after losing interest in the work, to work at the company Dessa in support of new deep-learning techniques. Many of his numerous papers on machine learning and computer vision are frequently cited by other researchers. He is the creator of the CIFAR-10 and CIFAR-100 datasets.Alex was a PhD student at University of Toronto under Geoffrey Hinton.
+
+References
+External links
+Alex Krizhevsky's home page

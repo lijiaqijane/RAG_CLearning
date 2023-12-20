@@ -1,0 +1,822 @@
+Title: Matter_wave#De_Broglie_relations
+Matter waves are a central part of the theory of quantum mechanics, being half of wave–particle duality. All matter exhibits wave-like behavior. For example, a beam of electrons can be diffracted just like a beam of light or a water wave.
+The concept that matter behaves like a wave was proposed by French physicist Louis de Broglie () in 1924, and so matter waves are also known as de Broglie waves.
+The de Broglie wavelength is the wavelength, λ, associated with a particle with momentum p through the Planck constant, h:
+
+Wave-like behavior of matter was first experimentally demonstrated by George Paget Thomson and Alexander Reid's transmission diffraction experiment, and independently in the Davisson–Germer experiment, both using electrons; and it has also been confirmed for other elementary particles, neutral atoms and molecules.
+
+Introduction
+Background
+At the end of the 19th century, light was thought to consist of waves of electromagnetic fields which propagated according to Maxwell's equations, while matter was thought to consist of localized particles (see history of wave and particle duality). In 1900, this division was questioned when, investigating the theory of black-body radiation, Max Planck proposed that the thermal energy of oscillating atoms is divided into discrete portions, or quanta. Extending Planck's investigation in several ways, including its connection with the photoelectric effect, Albert Einstein proposed in 1905 that light is also propagated and absorbed in quanta,: 87  now called photons. These quanta would have an energy given by the Planck–Einstein relation:
+
+and a momentum vector 
+  
+    
+      
+        
+          p
+        
+      
+    
+    {\displaystyle \mathbf {p} }
+  
+
+where ν (lowercase Greek letter nu) and λ (lowercase Greek letter lambda) denote the frequency and wavelength of the light, c the speed of light, and h the Planck constant. In the modern convention, frequency is symbolized by f as is done in the rest of this article. Einstein's postulate was verified experimentally: 89  by K. T. Compton and O. W. Richardson and by A. L. Hughes in 1912 then more carefully including a measurement of Planck's constant in 1916 by Robert Millikan
+
+De Broglie hypothesis
+When I conceived the first basic ideas of wave mechanics in 1923–1924, I was guided by the aim to perform a real physical synthesis, valid for all particles, of the coexistence of the wave and of the corpuscular aspects that Einstein had introduced for photons in his theory of light quanta in 1905.
+De Broglie, in his 1924 PhD thesis, proposed that just as light has both wave-like and particle-like properties, electrons also have wave-like properties.
+His thesis started from the hypothesis, "that to each portion of energy with a proper mass m0 one may associate a periodic phenomenon of the frequency ν0, such that one finds: hν0 = m0c2. The frequency ν0 is to be measured, of course, in the rest frame of the energy packet. This hypothesis is the basis of our theory.": 8  (This frequency is also known as Compton frequency.)
+To find the wavelength equivalent to a moving body, de Broglie: 214  set the total energy from special relativity for that body equal to  hν:
+
+(Modern physics no longer uses this form of the total energy; the energy–momentum relation has proven more useful.) De Broglie identified the velocity of the particle, v, with the wave group velocity in free space:
+
+(The modern definition of group velocity uses angular frequency ω and wave number k). By applying the differentials to the energy equation and identifying the relativistic momentum:
+
+then integrating, de Broglie arrived as his formula for the relationship between the wavelength, λ, associated with an electron and the modulus of its momentum, p, through the Planck constant, h:
+
+ This is a fundamental relation of the theory.
+
+Schrödinger's (matter) wave equation
+Following up on de Broglie's ideas, physicist Peter Debye made an offhand comment that if particles behaved as waves, they should satisfy some sort of wave equation. Inspired by Debye's remark, Erwin Schrödinger decided to find a proper three-dimensional wave equation for the electron. He was guided by William Rowan Hamilton's analogy between mechanics and optics (see Hamilton's optico-mechanical analogy), encoded in the observation that the zero-wavelength limit of optics resembles a mechanical system – the trajectories of light rays become sharp tracks that obey Fermat's principle, an analog of the principle of least action.In 1926, Schrödinger published the wave equation that now bears his name – the matter wave analogue of Maxwell's equations – and used it to derive the energy spectrum of hydrogen. Frequencies of solutions of the non-relativistic Schrödinger equation differ from de Broglie waves by the Compton frequency since the energy corresponding to the rest mass of a particle is not part of the non-relativistic Schrödinger equation. The Schrödinger equation describes the time evolution of a wavefunction, a function that assigns a complex number to each point in space. Schrödinger tried to interpret the modulus squared of the wavefunction as a charge density. This approach was, however, unsuccessful. Max Born proposed that the modulus squared of the wavefunction is instead a probability density, a successful proposal now known as the Born rule.
+The following year, 1927, C. G. Darwin (grandson of the famous biologist) explored Schrödinger's equation in several idealized scenarios. For an unbound electron in free space he worked out the propagation of the wave, assuming an initial Gaussian wave packet. Darwin showed that at time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   later the position 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   of the packet traveling at velocity 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   would be
+
+where 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+   is the uncertainty in the initial position. This position uncertainty creates uncertainty in velocity (the extra second term in the square root) consistent with Heisenberg's uncertainty relation The wave packet spreads out as show in the figure.
+
+Experimental confirmation
+Matter waves were first experimentally confirmed to occur in George Paget Thomson and Alexander Reid's diffraction experiment and the Davisson–Germer experiment, both for electrons.
+
+The de Broglie hypothesis and the existence of matter waves has been confirmed for other elementary particles, neutral atoms and even molecules have been shown to be wave-like.The first electron wave interference patterns directly demonstrating wave–particle duality used electron biprisms (essentially a wire placed in an electron microscope) and measured single electrons building up the diffraction pattern.
+Recently, a close copy of the famous double-slit experiment: 260  using electrons through physical apertures gave the movie shown.
+
+Electrons
+In 1927 at Bell Labs, Clinton Davisson and Lester Germer fired slow-moving electrons at a crystalline nickel target. The diffracted electron intensity was measured, and was determined to have a similar angular dependence to diffraction patterns predicted by Bragg for x-rays. At the same time George Paget Thomson and Alexander Reid at the University of Aberdeen were independently firing electrons at thin celluloid foils and later metal films, observing rings which can be similarly interpreted. (Alexander Reid, who was Thomson's graduate student, performed the first experiments but he died soon after in a motorcycle accident and is rarely mentioned.) Before the acceptance of the de Broglie hypothesis, diffraction was a property that was thought to be exhibited only by waves. Therefore, the presence of any diffraction effects by matter demonstrated the wave-like nature of matter. The matter wave interpretation was placed onto a solid foundation in 1928 by Hans Bethe, who solved the Schrödinger equation, showing how this could explain the experimental results. His approach is similar to what is used in modern electron diffraction approaches.This was a pivotal result in the development of quantum mechanics. Just as the photoelectric effect demonstrated the particle nature of light, these experiments showed the wave nature of matter.
+
+Neutrons
+Neutrons, produced in nuclear reactors with kinetic energy of around 1 MeV, thermalize to around 0.025 eV as they scatter from light atoms. The resulting de Broglie wavelength (around 180 pm) matches interatomic spacing. In 1944, Ernest O. Wollan, with a background in X-ray scattering from his PhD work under Arthur Compton, recognized the potential for applying thermal neutrons from the newly operational X-10 nuclear reactor to crystallography. Joined by Clifford G. Shull they developed neutron diffraction throughout the 1940s. 
+In the 1970s a neutron interferometer demonstrated the action of gravity in relation to wave–particle duality in a neutron interferometer.
+
+Atoms
+Interference of atom matter waves was first observed by Immanuel Estermann and Otto Stern in 1930, when a Na beam was diffracted off a surface of NaCl. The short de Broglie wavelength of atoms prevented progress for many years until two technological breakthroughs revived interest: microlithography allowing precise small devices and laser cooling allowing atoms to be slowed, increasing their de Broglie wavelength.Advances in laser cooling allowed cooling of neutral atoms down to nanokelvin temperatures. At these temperatures, the de Broglie wavelengths come into the micrometre range. Using Bragg diffraction of atoms and a Ramsey interferometry technique, the de Broglie wavelength of cold sodium atoms was explicitly measured and found to be consistent with the temperature measured by a different method.
+
+Molecules
+Recent experiments confirm the relations for molecules and even macromolecules that otherwise might be supposed too large to undergo quantum mechanical effects. In 1999, a research team in Vienna demonstrated diffraction for molecules as large as fullerenes. The researchers calculated a de Broglie wavelength of the most probable C60 velocity as 2.5 pm.
+More recent experiments prove the quantum nature of molecules made of 810 atoms and with a mass of 10123 Da. As of 2019, this has been pushed to molecules of 25000 Da.In these experiments the build-up of such interference patterns could be recorded in real time and with single molecule sensitivity.
+Large molecules are already so complex that they give experimental access to some aspects of the quantum-classical interface, i.e., to certain decoherence mechanisms.
+
+Traveling matter waves
+Waves have more complicated concepts for velocity than solid objects.
+The simplest approach is to focus on the description in terms of plane matter waves for a free particle, that is a wave function described by
+
+where 
+  
+    
+      
+        
+          r
+        
+      
+    
+    {\displaystyle \mathbf {r} }
+   is a position in real space, 
+  
+    
+      
+        
+          k
+        
+      
+    
+    {\displaystyle \mathbf {k} }
+    is the wave vector in units of inverse meters, ω is the angular frequency with units of inverse time and 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   is time. (Here the physics definition for the wave vector is used, which is 
+  
+    
+      
+        2
+        π
+      
+    
+    {\displaystyle 2\pi }
+   times the wave vector used in crystallography, see wavevector.) The de Broglie equations relate the wavelength λ to the modulus of the momentum 
+  
+    
+      
+        
+          |
+        
+        
+          p
+        
+        
+          |
+        
+        =
+        p
+      
+    
+    {\displaystyle |\mathbf {p} |=p}
+  , and frequency f to the total energy E of a free particle as written above:
+where h is the Planck constant. The equations can also be written as
+
+Here, ħ = h/2π is the reduced Planck constant. The second equation is also referred to as the Planck–Einstein relation.
+
+Group velocity
+In the de Broglie hypothesis, the velocity of a particle equals the group velocity of the matter wave.: 214 
+In isotropic media or a vacuum the group velocity of a wave is defined by:
+
+The relationship between the angular frequency and wavevector is called the dispersion relationship. For the non-relativistic case this is:
+
+where 
+  
+    
+      
+        
+          m
+          
+            0
+          
+        
+      
+    
+    {\displaystyle m_{0}}
+   is the rest mass. Applying the derivative gives the (non-relativistic) matter wave group velocity:
+
+For comparison, the group velocity of light, with a dispersion 
+  
+    
+      
+        ω
+        (
+        k
+        )
+        =
+        c
+        k
+      
+    
+    {\displaystyle \omega (k)=ck}
+  , is the speed of light 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  .
+As an alternative, using the relativistic dispersion relationship for matter waves
+
+then
+
+This relativistic form relates to the phase velocity as discussed below.
+For non-isotropic media we use the Energy–momentum form instead:
+
+But (see below), since the phase velocity is 
+  
+    
+      
+        
+          
+            v
+          
+          
+            
+              p
+            
+          
+        
+        =
+        E
+        
+          /
+        
+        
+          p
+        
+        =
+        
+          c
+          
+            2
+          
+        
+        
+          /
+        
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} _{\mathrm {p} }=E/\mathbf {p} =c^{2}/\mathbf {v} }
+  , then
+
+where 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   is the velocity of the center of mass of the particle, identical to the group velocity.
+
+Phase velocity
+The phase velocity in isotropic media is defined as:
+
+Using the relativistic group velocity above:: 215 
+This shows that 
+  
+    
+      
+        
+          
+            v
+            
+              p
+            
+          
+        
+        ⋅
+        
+          
+            v
+            
+              g
+            
+          
+        
+        =
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbf {v_{p}} \cdot \mathbf {v_{g}} =c^{2}}
+   as reported by R.W. Ditchburn in 1948 and J. L. Synge in 1952. Electromagnetic waves also obey  
+  
+    
+      
+        
+          
+            v
+            
+              p
+            
+          
+        
+        ⋅
+        
+          
+            v
+            
+              g
+            
+          
+        
+        =
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbf {v_{p}} \cdot \mathbf {v_{g}} =c^{2}}
+  , as both 
+  
+    
+      
+        
+          |
+        
+        
+          
+            v
+            
+              p
+            
+          
+        
+        
+          |
+        
+        =
+        c
+      
+    
+    {\displaystyle |\mathbf {v_{p}} |=c}
+   and 
+  
+    
+      
+        
+          |
+        
+        
+          
+            v
+            
+              g
+            
+          
+        
+        
+          |
+        
+        =
+        c
+      
+    
+    {\displaystyle |\mathbf {v_{g}} |=c}
+  . Since for matter waves, 
+  
+    
+      
+        
+          |
+        
+        
+          
+            v
+            
+              g
+            
+          
+        
+        
+          |
+        
+        <
+        c
+      
+    
+    {\displaystyle |\mathbf {v_{g}} |<c}
+  , it follows that 
+  
+    
+      
+        
+          |
+        
+        
+          
+            v
+            
+              p
+            
+          
+        
+        
+          |
+        
+        >
+        c
+      
+    
+    {\displaystyle |\mathbf {v_{p}} |>c}
+  , but only the group velocity carries information. The superluminal phase velocity therefore does not violate special relativity, as it does not carry information.
+For non-isotropic media, then
+
+Using the relativistic relations for energy and momentum yields
+
+The variable 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+   can either be interpreted as the speed of the particle or the group velocity of the corresponding matter wave—the two are the same. Since the particle speed 
+  
+    
+      
+        
+          |
+        
+        
+          v
+        
+        
+          |
+        
+        <
+        c
+      
+    
+    {\displaystyle |\mathbf {v} |<c}
+   for any particle that has nonzero mass (according to special relativity), the phase velocity of matter waves always exceeds c, i.e.,
+
+which approaches c when the particle speed is relativistic. The superluminal phase velocity does not violate special relativity, similar to the case above for non-isotropic media. See the article on Dispersion (optics) for further details.
+
+Special relativity
+Using two formulas from special relativity, one for the relativistic mass energy and one for the relativistic momentum
+
+allows the equations for de Broglie wavelength and frequency to be written as
+
+where 
+  
+    
+      
+        v
+        =
+        
+          |
+        
+        
+          v
+        
+        
+          |
+        
+      
+    
+    {\displaystyle v=|\mathbf {v} |}
+   is the velocity, 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   the Lorentz factor, and 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   the speed of light in vacuum. This shows that as the velocity of a particle approaches zero (rest) the de Broglie wavelength approaches infinity.
+
+Four-vectors
+Using four-vectors, the de Broglie relations form a single equation:
+
+which is frame-independent.
+Likewise, the relation between group/particle velocity and phase velocity is given in frame-independent form by:
+
+where
+
+Four-momentum 
+  
+    
+      
+        
+          P
+        
+        =
+        
+          (
+          
+            
+              
+                E
+                c
+              
+            
+            ,
+            
+              
+                p
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \mathbf {P} =\left({\frac {E}{c}},{\mathbf {p} }\right)}
+  
+Four-wavevector 
+  
+    
+      
+        
+          K
+        
+        =
+        
+          (
+          
+            
+              
+                ω
+                c
+              
+            
+            ,
+            
+              
+                k
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \mathbf {K} =\left({\frac {\omega }{c}},{\mathbf {k} }\right)}
+  
+Four-velocity 
+  
+    
+      
+        
+          U
+        
+        =
+        γ
+        (
+        c
+        ,
+        
+          
+            u
+          
+        
+        )
+        =
+        γ
+        (
+        c
+        ,
+        
+          v
+          
+            
+              g
+            
+          
+        
+        
+          
+            
+              
+                u
+              
+              ^
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {U} =\gamma (c,{\mathbf {u} })=\gamma (c,v_{\mathrm {g} }{\hat {\mathbf {u} }})}
+
+General matter waves
+The preceding sections refer specifically to free particles for which the wavefunctions are plane waves. There are significant numbers of other matter waves, which can be broadly split into three classes: single-particle matter waves, collective matter waves and standing waves.
+
+Single-particle matter waves
+The more general description of matter waves corresponding to a single particle type (e.g. a single electron or neutron only) would have a form similar to
+
+where now there is an additional spatial term 
+  
+    
+      
+        u
+        (
+        
+          r
+        
+        ,
+        
+          k
+        
+        )
+      
+    
+    {\displaystyle u(\mathbf {r} ,\mathbf {k} )}
+   in the front, and the energy has been written more generally as a function of the wave vector. The various terms given before still apply, although the energy is no longer always proportional to the wave vector squared. A common approach is to define an effective mass which in general is a tensor 
+  
+    
+      
+        
+          m
+          
+            i
+            j
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle m_{ij}^{*}}
+   given by
+
+so that in the simple case where all directions are the same the form is similar to that of a free wave above.In general the group velocity would be replaced by the probability current
+where 
+  
+    
+      
+        ∇
+      
+    
+    {\displaystyle \nabla }
+   is the del or gradient operator. The momentum would then be described using the kinetic momentum operator,
+The wavelength is still described as the inverse of the modulus of the wavevector, although measurement is more complex. There are many cases where this approach is used to describe single-particle matter waves:
+
+Bloch wave, which form the basis of much of band structure as described in Ashcroft and Mermin, and are also used to describe the diffraction of high-energy electrons by solids.
+Waves with angular momentum such as electron vortex beams.
+Evanescent waves, where the component of the wavevector in one direction is complex. These are common when matter waves are being reflected, particularly for grazing-incidence diffraction.
+
+Collective matter waves
+Other classes of matter waves involve more than one particle, so are called collective waves and are often quasiparticles. Many of these occur in solids – see Ashcroft and Mermin. Examples include:
+
+In solids, an electron quasiparticle is an electron where interactions with other electrons in the solid have been included. An electron quasiparticle has the same charge and spin as a "normal" (elementary particle) electron and, like a normal electron, it is a fermion. However, its effective mass can differ substantially from that of a normal electron. Its electric field is also modified, as a result of electric field screening.
+A hole is a quasiparticle which can be thought of as a vacancy of an electron in a state; it is most commonly used in the context of empty states in the valence band of a semiconductor. A hole has the opposite charge of an electron.
+A polaron is a quasiparticle where an electron interacts with the polarization of nearby atoms.
+An exciton is an electron and hole pair which are bound together.
+A Cooper pair is two electrons bound together so they behave as a single matter wave.
+
+Standing matter waves
+The third class are matter waves which have a wavevector, a wavelength and vary with time, but have a zero group velocity or probability flux. The simplest of these, similar to the notation above would be
+
+These occur as part of the particle in a box, and other cases such as in a ring. This can, and arguably should be, extended to many other cases. For instance, in early work de Broglie used the concept that an electron matter wave must be continuous in a ring to connect to the Bohr–Sommerfeld condition in the early approaches to quantum mechanics. In that sense atomic orbitals around atoms, and also molecular orbitals are electron matter waves.
+
+Matter waves vs. electromagnetic waves (light)
+Schrödinger applied Hamilton's optico-mechanical analogy to develop his wave mechanics for subatomic particles: xi  Consequently wave solutions to Schrödinger's equation share many properties with  results of light wave optics. In particular, Kirchhoff's diffraction formula works well for electron optics: 745  and for atomic optics. The approximation works well as long as the electric fields change more slowly than the de Broglie wavelength. Macroscopic apparatus fulfill this condition; slow electrons moving in solids do not.
+Beyond the equations of motion, other aspects of matter wave optics differ from the corresponding light optics cases.
+Sensitivity of matter waves to environmental condition.
+Many examples of electromagnetic (light) diffraction occur in air under many environmental conditions. Obviously visible light interacts weakly with air molecules. By contrast, strongly interacting particles like slow electrons and molecules require vacuum: the matter wave properties rapidly fade when they are exposed to even low pressures of gas. With special apparatus, high velocity electrons can be used to study liquids and gases. Neutrons, an important exception, interact primarily by collisions with nuclei, and thus travel several hundred feet in air.Dispersion. Light waves of all frequencies travel at the same speed of light while matter wave velocity varies strongly with frequency. The relationship between frequency (proportional to energy) and wavenumber or velocity (proportional to momentum) is called a dispersion relation. Light waves in a vacuum have linear dispersion relation between frequency: 
+  
+    
+      
+        ω
+        =
+        c
+        k
+      
+    
+    {\displaystyle \omega =ck}
+  . For matter waves the relation is non-linear:
+
+This non-relativistic matter wave dispersion relation says the frequency in vacuum varies with wavenumber (
+  
+    
+      
+        k
+        =
+        1
+        
+          /
+        
+        λ
+      
+    
+    {\displaystyle k=1/\lambda }
+  ) in  two parts: a constant part due to the de Broglie frequency of the rest mass (
+  
+    
+      
+        ℏ
+        
+          ω
+          
+            0
+          
+        
+        =
+        
+          m
+          
+            0
+          
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \hbar \omega _{0}=m_{0}c^{2}}
+  ) and a quadratic part due to kinetic energy. The quadratic term causes rapid spreading of wave packets of matter waves.
+Coherence The visibility of diffraction features using an optical theory approach depends on the beam coherence, which at the quantum level is equivalent to a density matrix approach. As with light, transverse coherence (across the direction of propagation) can be increased by collimation. Electron optical systems use stabilized high voltage to give a narrow energy spread in combination with collimating (parallelizing) lenses and pointed filament sources to achieve good coherence. Because light at all frequencies travels the same velocity, longitudinal and temporal coherence are linked; in matter waves these are independent. For example for atoms, velocity (energy) selection controls longitudinal coherence and pulsing or chopping controls temporal coherence.: 154 Optically shaped matter waves
+Optical manipulation of matter plays a critical role in matter wave optics: "Light waves can act as refractive, reflective, and absorptive structures for matter waves, just as glass interacts with light waves." Laser light momentum transfer can cool matter particles and alter the internal excitation state of atoms.Multi-particle experiments
+While single-particle free-space optical and matter wave equations are identical, multiparticle systems like coincidence experiments are not.
+
+Applications of matter waves
+The following subsections provide links to pages describing applications of matter waves as probes of materials or of fundamental quantum properties. In most cases these involve some method of producing travelling matter waves which initially have the simple form 
+  
+    
+      
+        exp
+        ⁡
+        (
+        i
+        
+          k
+        
+        ⋅
+        
+          r
+        
+        −
+        i
+        ω
+        t
+        )
+      
+    
+    {\displaystyle \exp(i\mathbf {k} \cdot \mathbf {r} -i\omega t)}
+  , then using these to probe materials.
+As shown in the table below, matter wave mass ranges over 6 orders of magnitude and energy over 9 orders but the wavelengths are all in the picometre range, comparable to atomic spacings. (Atomic diameters range from 62 to 520 pm, and the typical length of a carbon–carbon single bond is 154 pm.) Reaching longer wavelengths requires special techniques like laser cooling to reach lower energies; shorter wavelengths make diffraction effects more difficult to discern. Therefore, many applications focus on material structures, in parallel with applications of electromagnetic waves, especially X-rays. Unlike light, matter wave particles may have mass, electric charge, magnetic moments, and internal structure, presenting new challenges and opportunities.
+
+Electrons
+Electron diffraction patterns emerge when energetic electrons reflect or penetrate ordered solids; analysis of the patterns leads to models of the atomic arrangement in the solids.
+They are used for imaging from the micron to atomic scale using electron microscopes, in transmission, using scanning, and for surfaces at low energies.
+The measurements of the energy they lose in electron energy loss spectroscopy provides information about the chemistry and electronic structure of materials. Beams of electrons also lead to characteristic X-rays in energy dispersive spectroscopy which can produce information about chemical content at the nanoscale.
+Quantum tunneling explains how electrons escape from metals in an electrostatic field at energies less than classical predictions allow: the matter wave penetrates of the work function barrier in the metal.
+Scanning tunneling microscope leverages quantum tunneling to image the top atomic layer of solid surfaces.
+Electron holography, the electron matter wave analog of optical holography, probes the electric and magnetic fields in thin films.
+
+Neutrons
+Neutron diffraction complements x-ray diffraction through the different scattering cross sections and sensitivity to magnetism.
+Small-angle neutron scattering provides way to obtain structure of disordered systems that is sensitivity to light elements, isotopes and magnetic moments.
+Neutron reflectometry is a neutron diffraction technique for measuring the structure of thin films.
+
+Neutral atoms
+Atom interferometers, similar to optical interferometers, measure the difference in phase between atomic matter waves along different paths.
+Atom optics mimic many light optic devices, including mirrors, atom focusing zone plates.
+Scanning helium microscopy uses He atom waves to images solid structures non-destructively.
+Quantum reflection uses matter wave behavior to explain grazing angle atomic reflection, the basis of some atomic mirrors.
+Quantum decoherence measurements rely on Rb atom wave interference.
+
+Molecules
+Quantum superposition revealed by interference of matter waves from large molecules probes the limits of wave–particle duality and quantum macroscopicity.Matter-wave interfererometers generate nanostructures on molecular beams that can be read with nanometer accuracy and therefore be used for highly sensitive force measurements, from which one can deduce a plethora or properties of individualized complex molecules.
+
+See also
+Bohr model
+Compton wavelength
+Faraday wave
+Kapitsa–Dirac effect
+Matter wave clock
+Schrödinger equation
+Theoretical and experimental justification for the Schrödinger equation
+Thermal de Broglie wavelength
+De Broglie–Bohm theory
+
+References
+Further reading
+L. de Broglie, Recherches sur la théorie des quanta (Researches on the quantum theory), Thesis (Paris), 1924; L. de Broglie, Ann. Phys. (Paris) 3, 22 (1925). English translation by A.F. Kracklauer.
+Broglie, Louis de, The wave nature of the electron Nobel Lecture, 12, 1929
+Tipler, Paul A. and Ralph A. Llewellyn (2003). Modern Physics. 4th ed. New York; W. H. Freeman and Co. ISBN 0-7167-4345-0. pp. 203–4, 222–3, 236.
+Zumdahl, Steven S. (2005). Chemical Principles (5th ed.). Boston: Houghton Mifflin. ISBN 978-0-618-37206-5.
+An extensive review article "Optics and interferometry with atoms and molecules" appeared in July 2009: https://web.archive.org/web/20110719220930/http://www.atomwave.org/rmparticle/RMPLAO.pdf.
+"Scientific Papers Presented to Max Born on his retirement from the Tait Chair of Natural Philosophy in the University of Edinburgh", 1953 (Oliver and Boyd)
+
+External links
+Bowley, Roger. "de Broglie Waves". Sixty Symbols. Brady Haran for the University of Nottingham.

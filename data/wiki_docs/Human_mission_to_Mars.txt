@@ -1,0 +1,194 @@
+Title: Human_mission_to_Mars
+The idea of sending humans to Mars has been the subject of aerospace engineering and scientific studies since the late 1940s as part of the broader exploration of Mars. Long-term proposals have included sending settlers and terraforming the planet. Proposals for human missions to Mars have come from agencies such as NASA, CNSA,  the European Space Agency, Boeing, and SpaceX. As of 2023, only robotic landers and rovers have been on Mars. The farthest humans have been beyond Earth is the Moon, under the Apollo program.
+Conceptual proposals for missions that would involve human explorers started in the early 1950s, with planned missions typically being stated as taking place between 10 and 30 years from the time they are drafted. The list of crewed Mars mission plans shows the various mission proposals that have been put forth by multiple organizations and space agencies in this field of space exploration. The plans for these crews have varied—from scientific expeditions, in which a small group (between two and eight astronauts) would visit Mars for a period of a few weeks or more, to a continuous presence (e.g. through research stations, colonization, or other continuous habitation). Some have also considered exploring the Martian moons of Phobos and Deimos. By 2020, virtual visits to Mars, using haptic technologies, had also been proposed.Meanwhile, the uncrewed exploration of Mars has been a goal of national space programs for decades, and was first achieved in 1965 with the Mariner 4 flyby. Human missions to Mars have been part of science fiction since the 1880s, and more broadly, in fiction, Mars is a frequent target of exploration and settlement in books, graphic novels, and films. The concept of a Martian as something living on Mars is part of the fiction.
+
+Travel to Mars
+The energy needed for transfer between planetary orbits, or delta-v, is lowest at intervals fixed by the synodic period. For Earth–Mars trips, the period is every 26 months (2 years, 2 months), so missions are typically planned to coincide with one of these launch periods. Due to the eccentricity of Mars's orbit, the energy needed in the low-energy periods varies on roughly a 15-year cycle with the easiest periods needing only half the energy of the peaks. In the 20th century, a minimum existed in the 1969 and 1971 launch periods and another low in 1986 and 1988, then the cycle repeated. The next low-energy launch period occurs in 2033.Several types of mission plans have been proposed, including opposition class and conjunction class, or the Crocco flyby. The lowest energy transfer to Mars is a Hohmann transfer orbit, which would involve a roughly 9-month travel time from Earth to Mars, about 500 days (16 mo) at Mars to wait for the transfer window to Earth, and a travel time of about 9 months to return to Earth. This would be a 34-month trip.
+
+Shorter Mars mission plans have round-trip flight times of 400 to 450 days, or under 15 months, but would require significantly higher energy. A fast Mars mission of 245 days (8.0 months) round trip could be possible with on-orbit staging. In 2014, ballistic capture was proposed, which may reduce fuel cost and provide more flexible launch windows compared to the Hohmann.In the Crocco grand tour, a crewed spacecraft would get a flyby of Mars and Venus in under a year in space. Some flyby mission architectures can also be extended to include a style of Mars landing with a flyby excursion lander spacecraft. Proposed by R. Titus in 1966, it involved a short-stay lander-ascent vehicle that would separate from a "parent" Earth-Mars transfer craft prior to its flyby of Mars. The Ascent-Descent lander would arrive sooner and either go into orbit around Mars or land, and, depending on the design, offer perhaps 10–30 days before it needed to launch itself back to the main transfer vehicle. (See also Mars flyby.)
+In the 1980s, it was suggested that aerobraking at Mars could reduce the mass required for a human Mars mission lifting off from Earth by as much as half. As a result, Mars missions have designed interplanetary spacecraft and landers capable of aerobraking.
+
+Landing on Mars
+A number of uncrewed spacecraft have landed on the surface of Mars, while some, such as the Schiaparelli EDM (2016), have failed what is considered a difficult landing. The Beagle2 failed in 2003. Among the successes:
+
+Mars 3 – 1971
+Viking 1 and Viking 2 – 1976
+Mars Pathfinder and its Sojourner rover – 1997
+Spirit and Opportunity rovers – 2004
+Phoenix lander – 2008
+Curiosity rover –  2012
+InSight lander – 2018
+Tianwen-1 lander and Zhurong rover – 2021
+Perseverance rover and Ingenuity helicopter – 2021
+
+Orbital capture
+When an expedition reaches Mars, braking is required to enter orbit. Two options are available: rockets or aerocapture. Aerocapture at Mars for human missions was studied in the 20th century. In a review of 93 Mars studies, 24 used aerocapture for Mars or Earth return. One of the considerations for using aerocapture on crewed missions is a limit on the maximum force experienced by the astronauts. The current scientific consensus is that 5 g, or five times Earth gravity, is the maximum allowable deceleration.
+
+Survey work
+Conducting a safe landing requires knowledge of the properties of the atmosphere, first observed by Mariner 4, and a survey of the planet to identify suitable landing sites. Major global surveys were conducted by Mariner 9 and Viking 1 and two orbiters, which supported the Viking landers. Later orbiters, such as Mars Global Surveyor, 2001 Mars Odyssey, Mars Express, and Mars Reconnaissance Orbiter, have mapped Mars in higher resolution with improved instruments. These later surveys have identified the probable locations of water, a critical resource.
+
+Funding
+A primary limiting factor for sending humans to Mars is funding. In 2010, the estimated cost was roughly US$500 billion, though the actual costs are likely to be more. Starting in the late 1950s, the early phase of space exploration was conducted as much to make a political statement as to make observations of the solar system. However, this proved to be both wasteful and unsustainable, and the current climate is one of international cooperation, with large projects such as the International Space Station and the proposed Lunar Gateway being built and launched by multiple countries.Critics argue that the immediate benefits of establishing a human presence on Mars are outweighed by the immense cost, and that funds could be better redirected towards other programs, such as robotic exploration. Proponents of human space exploration contend that the symbolism of establishing a presence in space may garner public interest to join the cause and spark global cooperation. There are also claims that a long-term investment in space travel is necessary for humanity's survival.One factor reducing the funding needed to place a human presence on Mars may be space tourism. As the space tourism market grows and technological developments are made, the cost of sending humans to other planets will likely decrease accordingly. A similar concept can be examined in the history of personal computers: when computers were used only for scientific research, with minor use in big industry, they were big, rare, heavy, and costly. When the potential market increased and they started to become common in many homes (in Western and developed countries) for the purpose of entertainment such as computer games, and booking travel/leisure tickets, the computing power of home devices skyrocketed and prices plummeted.
+
+Medical
+Several key physical challenges exist for human missions to Mars:
+Health threat from cosmic rays and other ionizing radiation. In May 2013, NASA scientists reported that a possible mission to Mars may involve great radiation risk based on energetic particle radiation measured by the RAD on the Mars Science Laboratory while traveling from the Earth to Mars in 2011–2012. The calculated radiation dose was 0.66 sieverts round-trip. The agency's career radiation limit for astronauts is 1 sievert. In mid-September 2017, NASA reported temporarily doubled radiation levels on the surface of Mars, with an aurora 25 times brighter than any observed earlier, due to a massive unexpected solar storm.Adverse health effects of prolonged weightlessness, including bone mineral density loss and eyesight impairment. (Depends on mission and spacecraft design.) In November 2019, researchers reported that astronauts experienced serious blood flow and clot problems while on board the International Space Station, based on a six-month study of 11 healthy astronauts. The results may influence long-term spaceflight, including a mission to the planet Mars, according to the researchers.Psychological effects of isolation from Earth and, by extension, the lack of community due to lack of a real-time connection with Earth (Compare Hermit)
+Social effects of several humans living under cramped conditions for more than one Earth year, and possibly two or three years, depending on spacecraft and mission design
+Lack of medical facilities
+Potential failure of propulsion or life-support equipmentSome of these issues were estimated statistically in the HUMEX study.
+Ehlmann and others have reviewed political and economic concerns, as well as technological and biological feasibility aspects. While fuel for roundtrip travel could be a challenge, methane and oxygen can be produced using Martian H2O (preferably as water ice instead of liquid water) and atmospheric CO2 with mature technology.
+
+Planetary protection
+Robotic spacecraft to Mars are currently required to be sterilized. The allowable limit is 300,000 spores on the exterior of general craft, with stricter requirements for
+spacecraft bound for "special regions" containing water. Otherwise there is a risk of contaminating not only the life-detection experiments but possibly the planet itself.Sterilizing human missions to this level is impossible, as humans are host to typically a hundred trillion (1014) microorganisms of thousands of species of the human microbiota, and these cannot be removed. Containment seems the only option, but it is a major challenge in the event of a hard landing (i.e. crash). There have been several planetary workshops on this issue, but with no final guidelines for a way forward yet. Human explorers would also be vulnerable to back contamination to Earth if they become carriers of microorganisms.
+
+Mission proposals
+Over the past seven decades, a wide variety of mission architectures have been proposed or studied for human spaceflights to Mars. These have included chemical, nuclear, and electric propulsion, as well as a wide variety of landing, living, and return methodologies.A number of nations and organizations have long-term intentions to send humans to Mars.
+
+The United States has several robotic missions currently exploring Mars, with a sample-return planned for the future. The Orion Multi-Purpose Crew Vehicle (MPCV) is intended to serve as the launch/splashdown crew delivery vehicle, with a Deep Space Habitat module providing additional living-space for the 16-month-long journey. The first crewed Mars Mission, which would include sending astronauts to Mars, orbiting Mars, and a return to Earth, is proposed for the 2030s. Technology development for US government missions to Mars is underway, but there is no well-funded approach to bring the conceptual project to completion with human landings on Mars by the mid-2030s, the stated objective. NASA-funded engineers are studying a way to build potential human habitats there by producing bricks from pressurized Martian soil.
+The ESA has a long-term goal to send humans, but has not yet built a crewed spacecraft. It has sent robotic probes such as ExoMars in 2016 and planned to send the next probe in 2022, but the project was suspended due to Russia's invasion of Ukraine. It is now looking to send the probe in 2028 with assistance from NASA.
+Russia plans to send humans in the 2040–2045 timeframe.
+
+Technological innovations and hurdles
+Significant technological hurdles need to be overcome for human spaceflight to Mars.
+Entry into the thin and shallow Martian atmosphere will pose significant difficulties with re-entry; compared to Earth's much denser atmosphere, any spacecraft will descend very rapidly to the surface and must be slowed down. A heat shield has to be utilized. NASA is carrying out research on retropropulsive deceleration technologies to develop new approaches to Mars atmospheric entry.  A key problem with propulsive techniques is handling the fluid flow problems and attitude control of the descent vehicle during the supersonic retropropulsion phase of the entry and deceleration.A return mission from Mars will need to land a rocket to carry crew off the surface. Launch requirements mean that this rocket could be significantly smaller than an Earth-to-orbit rocket. Mars-to-orbit launch can also be achieved in single stage. Despite this, landing an ascent rocket on Mars will be difficult.In 2014, NASA proposed the Mars Ecopoiesis Test Bed.
+Intravenous fluidOne of the medical supplies that might be needed is a considerable mass of intravenous fluid, which is mainly water, but contains other substances so it can be added directly to the human blood stream. If it could be created on the spot from existing water, this would reduce mass requirements. A prototype for this capability was tested on the International Space Station in 2010.
+Advanced resistive exercise deviceA person who is inactive for an extended period of time loses strength and muscle and bone mass. Spaceflight conditions are known to cause loss of bone mineral density in astronauts, increasing bone fracture risk. Last mathematical models predict 33% of astronauts will be at risk for osteoporosis during a human mission to Mars. A resistive exercise device similar to ARED would be needed in the spaceship.
+
+Breathing gasesWhile humans can breathe pure oxygen, usually additional gases such as nitrogen are included in the breathing mix. One possibility is to take in situ nitrogen and argon from the atmosphere of Mars, but they are hard to separate from each other. As a result, a Mars habitat may use 40% argon, 40% nitrogen, and 20% oxygen.An idea for keeping carbon dioxide out of the breathing air is to use reusable amine-bead carbon dioxide scrubbers. While one carbon dioxide scrubber filters the astronaut's air, the other is vented to the Mars atmosphere.
+Growing foodIf humans are to live on Mars, growing food on Mars may be necessary - with numerous related challenges.
+
+Related missions
+Some missions may be considered a "Mission to Mars" in their own right, or they may only be one step in a more in-depth program. An example of this is missions to Mars's moons, or flyby missions.
+
+Missions to Deimos or Phobos
+Many Mars mission concepts propose precursor missions to the moons of Mars, for example a sample return mission to the Mars moon Phobos – not quite Mars, but perhaps a convenient stepping stone to an eventual Martian surface mission. Lockheed Martin, as part of their "Stepping stones to Mars" project, called the "Red Rocks Project", proposed to explore Mars robotically from Deimos.Use of fuel produced from water resources on Phobos or Deimos has also been proposed.
+
+Mars sample return missions
+An uncrewed Mars sample return mission (MSR) has sometimes been considered as a precursor to crewed missions to Mars's surface. In 2008, the ESA called a sample return "essential" and said it could bridge the gap between robotic and human missions to Mars. An example of a Mars sample return mission is Sample Collection for Investigation of Mars. Mars sample return was the highest priority Flagship Mission proposed for NASA by the Planetary Decadal Survey 2013–2022: The Future of Planetary Science. However, such missions have been hampered by complexity and expense, with one ESA proposal involving no fewer than five different uncrewed spacecraft.Sample return plans raise the concern, however remote, that an infectious agent could be brought to Earth. Regardless, a basic set of guidelines for extraterrestrial sample return has been laid out depending on the source of sample (e.g. asteroid, Moon, Mars surface, etc.)At the dawn of the 21st century, NASA crafted four potential pathways to Mars human missions, of which three included a Mars sample return as a prerequisite to human landing.The rover Perseverance, which landed on Mars in 2021, is equipped with a device that allows it to collect rock samples to be returned at a later date by another mission. Perseverance as part of the Mars 2020 mission was launched on top of an Atlas V rocket on 30 July 2020.
+
+Crewed orbital missions
+Starting in 2004, NASA scientists have proposed to explore Mars via telepresence from human astronauts in orbit.A similar idea was the proposed "Human Exploration using Real-time Robotic Operations" mission.
+
+See also
+Artificial gravity – Use of circular rotational force to mimic gravity
+Delta-v budget – Estimate of total change in velocity of a space mission
+Health threat from cosmic rays – Dangers posed to astronauts
+Human spaceflight – Spaceflight with a crew or passengers
+Interplanetary spaceflight – Crewed or uncrewed travel between stars or planets
+Life on Mars – Scientific assessments on the microbial habitability of Mars
+List of missions to Mars
+Mars analog habitat – Research simulating the environment on Mars
+Mars Design Reference Mission – Conceptual design studies for crewed missions to Mars
+Martian – Depictions of the planetPages displaying short descriptions of redirect targets
+Nuclear thermal rocket – Rocket engine that uses a nuclear reactor to generate thrust
+Space medicine – For health conditions encountered during spaceflight
+Space weather – Branch of space physics and aeronomy
+
+References
+Further reading
+Collins, Michael (November 1988). "Mission to Mars". National Geographic. Vol. 174, no. 5. pp. 732–764. ISSN 0027-9358. OCLC 643483454.
+
+External links
+
+Human Exploration of Mars: The Reference Mission Design Reference Mission 1.0
+Reference Mission Version 3.0, Addedum to Human Exploration of Mars Design Reference Mission 3.0
+Mars expeditions, flybys, and selected flybys. List of most crewed mission projects to Mars
+A longer bibliography can be found in the bibliography of Portree's book, available in pdf format from NASA.
+Title: Human_mission_to_Mars
+The idea of sending humans to Mars has been the subject of aerospace engineering and scientific studies since the late 1940s as part of the broader exploration of Mars. Long-term proposals have included sending settlers and terraforming the planet. Proposals for human missions to Mars have come from agencies such as NASA, CNSA,  the European Space Agency, Boeing, and SpaceX. As of 2023, only robotic landers and rovers have been on Mars. The farthest humans have been beyond Earth is the Moon, under the Apollo program.
+Conceptual proposals for missions that would involve human explorers started in the early 1950s, with planned missions typically being stated as taking place between 10 and 30 years from the time they are drafted. The list of crewed Mars mission plans shows the various mission proposals that have been put forth by multiple organizations and space agencies in this field of space exploration. The plans for these crews have varied—from scientific expeditions, in which a small group (between two and eight astronauts) would visit Mars for a period of a few weeks or more, to a continuous presence (e.g. through research stations, colonization, or other continuous habitation). Some have also considered exploring the Martian moons of Phobos and Deimos. By 2020, virtual visits to Mars, using haptic technologies, had also been proposed.Meanwhile, the uncrewed exploration of Mars has been a goal of national space programs for decades, and was first achieved in 1965 with the Mariner 4 flyby. Human missions to Mars have been part of science fiction since the 1880s, and more broadly, in fiction, Mars is a frequent target of exploration and settlement in books, graphic novels, and films. The concept of a Martian as something living on Mars is part of the fiction.
+
+Travel to Mars
+The energy needed for transfer between planetary orbits, or delta-v, is lowest at intervals fixed by the synodic period. For Earth–Mars trips, the period is every 26 months (2 years, 2 months), so missions are typically planned to coincide with one of these launch periods. Due to the eccentricity of Mars's orbit, the energy needed in the low-energy periods varies on roughly a 15-year cycle with the easiest periods needing only half the energy of the peaks. In the 20th century, a minimum existed in the 1969 and 1971 launch periods and another low in 1986 and 1988, then the cycle repeated. The next low-energy launch period occurs in 2033.Several types of mission plans have been proposed, including opposition class and conjunction class, or the Crocco flyby. The lowest energy transfer to Mars is a Hohmann transfer orbit, which would involve a roughly 9-month travel time from Earth to Mars, about 500 days (16 mo) at Mars to wait for the transfer window to Earth, and a travel time of about 9 months to return to Earth. This would be a 34-month trip.
+
+Shorter Mars mission plans have round-trip flight times of 400 to 450 days, or under 15 months, but would require significantly higher energy. A fast Mars mission of 245 days (8.0 months) round trip could be possible with on-orbit staging. In 2014, ballistic capture was proposed, which may reduce fuel cost and provide more flexible launch windows compared to the Hohmann.In the Crocco grand tour, a crewed spacecraft would get a flyby of Mars and Venus in under a year in space. Some flyby mission architectures can also be extended to include a style of Mars landing with a flyby excursion lander spacecraft. Proposed by R. Titus in 1966, it involved a short-stay lander-ascent vehicle that would separate from a "parent" Earth-Mars transfer craft prior to its flyby of Mars. The Ascent-Descent lander would arrive sooner and either go into orbit around Mars or land, and, depending on the design, offer perhaps 10–30 days before it needed to launch itself back to the main transfer vehicle. (See also Mars flyby.)
+In the 1980s, it was suggested that aerobraking at Mars could reduce the mass required for a human Mars mission lifting off from Earth by as much as half. As a result, Mars missions have designed interplanetary spacecraft and landers capable of aerobraking.
+
+Landing on Mars
+A number of uncrewed spacecraft have landed on the surface of Mars, while some, such as the Schiaparelli EDM (2016), have failed what is considered a difficult landing. The Beagle2 failed in 2003. Among the successes:
+
+Mars 3 – 1971
+Viking 1 and Viking 2 – 1976
+Mars Pathfinder and its Sojourner rover – 1997
+Spirit and Opportunity rovers – 2004
+Phoenix lander – 2008
+Curiosity rover –  2012
+InSight lander – 2018
+Tianwen-1 lander and Zhurong rover – 2021
+Perseverance rover and Ingenuity helicopter – 2021
+
+Orbital capture
+When an expedition reaches Mars, braking is required to enter orbit. Two options are available: rockets or aerocapture. Aerocapture at Mars for human missions was studied in the 20th century. In a review of 93 Mars studies, 24 used aerocapture for Mars or Earth return. One of the considerations for using aerocapture on crewed missions is a limit on the maximum force experienced by the astronauts. The current scientific consensus is that 5 g, or five times Earth gravity, is the maximum allowable deceleration.
+
+Survey work
+Conducting a safe landing requires knowledge of the properties of the atmosphere, first observed by Mariner 4, and a survey of the planet to identify suitable landing sites. Major global surveys were conducted by Mariner 9 and Viking 1 and two orbiters, which supported the Viking landers. Later orbiters, such as Mars Global Surveyor, 2001 Mars Odyssey, Mars Express, and Mars Reconnaissance Orbiter, have mapped Mars in higher resolution with improved instruments. These later surveys have identified the probable locations of water, a critical resource.
+
+Funding
+A primary limiting factor for sending humans to Mars is funding. In 2010, the estimated cost was roughly US$500 billion, though the actual costs are likely to be more. Starting in the late 1950s, the early phase of space exploration was conducted as much to make a political statement as to make observations of the solar system. However, this proved to be both wasteful and unsustainable, and the current climate is one of international cooperation, with large projects such as the International Space Station and the proposed Lunar Gateway being built and launched by multiple countries.Critics argue that the immediate benefits of establishing a human presence on Mars are outweighed by the immense cost, and that funds could be better redirected towards other programs, such as robotic exploration. Proponents of human space exploration contend that the symbolism of establishing a presence in space may garner public interest to join the cause and spark global cooperation. There are also claims that a long-term investment in space travel is necessary for humanity's survival.One factor reducing the funding needed to place a human presence on Mars may be space tourism. As the space tourism market grows and technological developments are made, the cost of sending humans to other planets will likely decrease accordingly. A similar concept can be examined in the history of personal computers: when computers were used only for scientific research, with minor use in big industry, they were big, rare, heavy, and costly. When the potential market increased and they started to become common in many homes (in Western and developed countries) for the purpose of entertainment such as computer games, and booking travel/leisure tickets, the computing power of home devices skyrocketed and prices plummeted.
+
+Medical
+Several key physical challenges exist for human missions to Mars:
+Health threat from cosmic rays and other ionizing radiation. In May 2013, NASA scientists reported that a possible mission to Mars may involve great radiation risk based on energetic particle radiation measured by the RAD on the Mars Science Laboratory while traveling from the Earth to Mars in 2011–2012. The calculated radiation dose was 0.66 sieverts round-trip. The agency's career radiation limit for astronauts is 1 sievert. In mid-September 2017, NASA reported temporarily doubled radiation levels on the surface of Mars, with an aurora 25 times brighter than any observed earlier, due to a massive unexpected solar storm.Adverse health effects of prolonged weightlessness, including bone mineral density loss and eyesight impairment. (Depends on mission and spacecraft design.) In November 2019, researchers reported that astronauts experienced serious blood flow and clot problems while on board the International Space Station, based on a six-month study of 11 healthy astronauts. The results may influence long-term spaceflight, including a mission to the planet Mars, according to the researchers.Psychological effects of isolation from Earth and, by extension, the lack of community due to lack of a real-time connection with Earth (Compare Hermit)
+Social effects of several humans living under cramped conditions for more than one Earth year, and possibly two or three years, depending on spacecraft and mission design
+Lack of medical facilities
+Potential failure of propulsion or life-support equipmentSome of these issues were estimated statistically in the HUMEX study.
+Ehlmann and others have reviewed political and economic concerns, as well as technological and biological feasibility aspects. While fuel for roundtrip travel could be a challenge, methane and oxygen can be produced using Martian H2O (preferably as water ice instead of liquid water) and atmospheric CO2 with mature technology.
+
+Planetary protection
+Robotic spacecraft to Mars are currently required to be sterilized. The allowable limit is 300,000 spores on the exterior of general craft, with stricter requirements for
+spacecraft bound for "special regions" containing water. Otherwise there is a risk of contaminating not only the life-detection experiments but possibly the planet itself.Sterilizing human missions to this level is impossible, as humans are host to typically a hundred trillion (1014) microorganisms of thousands of species of the human microbiota, and these cannot be removed. Containment seems the only option, but it is a major challenge in the event of a hard landing (i.e. crash). There have been several planetary workshops on this issue, but with no final guidelines for a way forward yet. Human explorers would also be vulnerable to back contamination to Earth if they become carriers of microorganisms.
+
+Mission proposals
+Over the past seven decades, a wide variety of mission architectures have been proposed or studied for human spaceflights to Mars. These have included chemical, nuclear, and electric propulsion, as well as a wide variety of landing, living, and return methodologies.A number of nations and organizations have long-term intentions to send humans to Mars.
+
+The United States has several robotic missions currently exploring Mars, with a sample-return planned for the future. The Orion Multi-Purpose Crew Vehicle (MPCV) is intended to serve as the launch/splashdown crew delivery vehicle, with a Deep Space Habitat module providing additional living-space for the 16-month-long journey. The first crewed Mars Mission, which would include sending astronauts to Mars, orbiting Mars, and a return to Earth, is proposed for the 2030s. Technology development for US government missions to Mars is underway, but there is no well-funded approach to bring the conceptual project to completion with human landings on Mars by the mid-2030s, the stated objective. NASA-funded engineers are studying a way to build potential human habitats there by producing bricks from pressurized Martian soil.
+The ESA has a long-term goal to send humans, but has not yet built a crewed spacecraft. It has sent robotic probes such as ExoMars in 2016 and planned to send the next probe in 2022, but the project was suspended due to Russia's invasion of Ukraine. It is now looking to send the probe in 2028 with assistance from NASA.
+Russia plans to send humans in the 2040–2045 timeframe.
+
+Technological innovations and hurdles
+Significant technological hurdles need to be overcome for human spaceflight to Mars.
+Entry into the thin and shallow Martian atmosphere will pose significant difficulties with re-entry; compared to Earth's much denser atmosphere, any spacecraft will descend very rapidly to the surface and must be slowed down. A heat shield has to be utilized. NASA is carrying out research on retropropulsive deceleration technologies to develop new approaches to Mars atmospheric entry.  A key problem with propulsive techniques is handling the fluid flow problems and attitude control of the descent vehicle during the supersonic retropropulsion phase of the entry and deceleration.A return mission from Mars will need to land a rocket to carry crew off the surface. Launch requirements mean that this rocket could be significantly smaller than an Earth-to-orbit rocket. Mars-to-orbit launch can also be achieved in single stage. Despite this, landing an ascent rocket on Mars will be difficult.In 2014, NASA proposed the Mars Ecopoiesis Test Bed.
+Intravenous fluidOne of the medical supplies that might be needed is a considerable mass of intravenous fluid, which is mainly water, but contains other substances so it can be added directly to the human blood stream. If it could be created on the spot from existing water, this would reduce mass requirements. A prototype for this capability was tested on the International Space Station in 2010.
+Advanced resistive exercise deviceA person who is inactive for an extended period of time loses strength and muscle and bone mass. Spaceflight conditions are known to cause loss of bone mineral density in astronauts, increasing bone fracture risk. Last mathematical models predict 33% of astronauts will be at risk for osteoporosis during a human mission to Mars. A resistive exercise device similar to ARED would be needed in the spaceship.
+
+Breathing gasesWhile humans can breathe pure oxygen, usually additional gases such as nitrogen are included in the breathing mix. One possibility is to take in situ nitrogen and argon from the atmosphere of Mars, but they are hard to separate from each other. As a result, a Mars habitat may use 40% argon, 40% nitrogen, and 20% oxygen.An idea for keeping carbon dioxide out of the breathing air is to use reusable amine-bead carbon dioxide scrubbers. While one carbon dioxide scrubber filters the astronaut's air, the other is vented to the Mars atmosphere.
+Growing foodIf humans are to live on Mars, growing food on Mars may be necessary - with numerous related challenges.
+
+Related missions
+Some missions may be considered a "Mission to Mars" in their own right, or they may only be one step in a more in-depth program. An example of this is missions to Mars's moons, or flyby missions.
+
+Missions to Deimos or Phobos
+Many Mars mission concepts propose precursor missions to the moons of Mars, for example a sample return mission to the Mars moon Phobos – not quite Mars, but perhaps a convenient stepping stone to an eventual Martian surface mission. Lockheed Martin, as part of their "Stepping stones to Mars" project, called the "Red Rocks Project", proposed to explore Mars robotically from Deimos.Use of fuel produced from water resources on Phobos or Deimos has also been proposed.
+
+Mars sample return missions
+An uncrewed Mars sample return mission (MSR) has sometimes been considered as a precursor to crewed missions to Mars's surface. In 2008, the ESA called a sample return "essential" and said it could bridge the gap between robotic and human missions to Mars. An example of a Mars sample return mission is Sample Collection for Investigation of Mars. Mars sample return was the highest priority Flagship Mission proposed for NASA by the Planetary Decadal Survey 2013–2022: The Future of Planetary Science. However, such missions have been hampered by complexity and expense, with one ESA proposal involving no fewer than five different uncrewed spacecraft.Sample return plans raise the concern, however remote, that an infectious agent could be brought to Earth. Regardless, a basic set of guidelines for extraterrestrial sample return has been laid out depending on the source of sample (e.g. asteroid, Moon, Mars surface, etc.)At the dawn of the 21st century, NASA crafted four potential pathways to Mars human missions, of which three included a Mars sample return as a prerequisite to human landing.The rover Perseverance, which landed on Mars in 2021, is equipped with a device that allows it to collect rock samples to be returned at a later date by another mission. Perseverance as part of the Mars 2020 mission was launched on top of an Atlas V rocket on 30 July 2020.
+
+Crewed orbital missions
+Starting in 2004, NASA scientists have proposed to explore Mars via telepresence from human astronauts in orbit.A similar idea was the proposed "Human Exploration using Real-time Robotic Operations" mission.
+
+See also
+Artificial gravity – Use of circular rotational force to mimic gravity
+Delta-v budget – Estimate of total change in velocity of a space mission
+Health threat from cosmic rays – Dangers posed to astronauts
+Human spaceflight – Spaceflight with a crew or passengers
+Interplanetary spaceflight – Crewed or uncrewed travel between stars or planets
+Life on Mars – Scientific assessments on the microbial habitability of Mars
+List of missions to Mars
+Mars analog habitat – Research simulating the environment on Mars
+Mars Design Reference Mission – Conceptual design studies for crewed missions to Mars
+Martian – Depictions of the planetPages displaying short descriptions of redirect targets
+Nuclear thermal rocket – Rocket engine that uses a nuclear reactor to generate thrust
+Space medicine – For health conditions encountered during spaceflight
+Space weather – Branch of space physics and aeronomy
+
+References
+Further reading
+Collins, Michael (November 1988). "Mission to Mars". National Geographic. Vol. 174, no. 5. pp. 732–764. ISSN 0027-9358. OCLC 643483454.
+
+External links
+
+Human Exploration of Mars: The Reference Mission Design Reference Mission 1.0
+Reference Mission Version 3.0, Addedum to Human Exploration of Mars Design Reference Mission 3.0
+Mars expeditions, flybys, and selected flybys. List of most crewed mission projects to Mars
+A longer bibliography can be found in the bibliography of Portree's book, available in pdf format from NASA.

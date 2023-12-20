@@ -1,0 +1,98 @@
+Title: Patch_Tuesday
+Patch Tuesday (also known as Update Tuesday) is an unofficial term used to refer to when Microsoft, Adobe, Oracle and others regularly release software patches for their software products. It is widely referred to in this way by the industry. Microsoft formalized Patch Tuesday in October 2003. Patch Tuesday is known within Microsoft also as the "B" release, to distinguish it from the "C" and "D" releases that occur in the third and fourth weeks of the month, respectively.Patch Tuesday occurs on the second Tuesday of each month in North America. Critical security updates are occasionally released outside of the normal Patch Tuesday cycle; these are known as "Out-of-band" releases. As far as the integrated Windows Update (WU) function is concerned, Patch Tuesday begins at 10:00 a.m. Pacific Time. Vulnerability information is immediately available in the Security Update Guide. The updates show up in Download Center before they are added to WU, and the KB articles are unlocked later.
+Daily updates consist of malware database refreshes for Microsoft Defender and Microsoft Security Essentials, these updates are not part of the normal Patch Tuesday release cycle.
+
+History
+Starting with Windows 98, Microsoft included Windows Update, which once installed and executed would check for patches to Windows and its components, which Microsoft would release intermittently. With the release of Microsoft Update, this system also checks for updates for other Microsoft products, such as Microsoft Office, Visual Studio and SQL Server.
+Earlier versions of Windows Update suffered from two problems:
+
+Less experienced users often remained unaware of Windows Update and did not install it. Microsoft countered this issue in Windows ME with the Automatic Updates component, which displayed availability of updates, with the option of automatic installation.
+Customers with multiple copies of Windows, such as corporate users, not only had to update every Windows deployment in the company but also to uninstall patches issued by Microsoft that broke existing functionality.Microsoft introduced "Patch Tuesday" in October 2003 to reduce the cost of distributing patches after the Blaster worm. This system accumulates security patches over a month, and dispatches them all on the second Tuesday of each month, an event for which system administrators may prepare. The following day, informally known as "Exploit Wednesday", marks the time when exploits may appear in the wild which take advantage on unpatched machines of the newly announced vulnerabilities.
+Tuesday was chosen as the optimal day of the week to distribute software patches. This is done to maximize the amount of time available before the upcoming weekend to correct any issues that might arise with those patches, while leaving Monday free to address other unexpected issues that might have arisen over the preceding weekend.
+
+Security implications
+An obvious security implication is that security problems that have a solution are withheld from the public for up to a month. This policy is adequate when the vulnerability is not widely known or is extremely obscure, but that is not always the case.
+There have been cases where vulnerability information became public or actual worms were circulating prior to the next scheduled Patch Tuesday. In critical cases Microsoft issues corresponding patches as they become ready, alleviating the risk if updates are checked for and installed frequently.
+At the Ignite 2015 event, Microsoft revealed a change in distributing security patches. They release security updates to home PCs, tablets and phones as soon as they are ready, while enterprise customers will stay on the monthly update cycle, which was reworked as Windows Update for Business.
+
+Exploit Wednesday
+Many exploitation events are seen shortly after the release of a patch; analysis of the patch helps exploit developers to immediately take advantage of the previously undisclosed vulnerability, which will remain in unpatched systems. Therefore, the term "Exploit Wednesday" was coined.
+
+Discontinued Windows versions
+Microsoft warned users that it discontinued support for Windows XP starting on April 8, 2014 –  users running Windows XP afterwards would be at the risk of attacks. As security patches of newer Windows versions can reveal similar (or same) vulnerabilities already present in older Windows versions, this can allow attacks on devices with unsupported Windows versions (cf. "zero-day attacks"). However Microsoft stopped fixing such (and other) vulnerabilities in unsupported Windows versions, regardless how widely known they became, leaving devices running these Windows versions vulnerable to attacks.  Microsoft made a singular exception during the rapid spread of the WannaCry ransomware and released patches in May 2017 for the by then-unsupported Windows XP, Windows 8, and Windows Server 2003 (in addition to then supported Windows versions).For Windows Vista "extended support" was ended April 11, 2017, which will leave vulnerabilities discovered afterwards unfixed, creating the same situation for Vista as for XP before.For Windows 7 (including Service Pack 1), support ended January 14, 2020, and on January 10, 2023 for Windows 8.1; this will cause the same "unfixed vulnerabilities" issue for users of these operating systems. Support for Windows 8 already ended January 12, 2016 (with users having to install Windows 8.1 or Windows 10 to continue to get support), and support for Windows 7 without SP1 was ended April 9, 2013 (with the ability to install SP1 to continue to get support until 2020, or having to install Windows 8.1 or Windows 10 to receive support after 2020).
+
+Windows 10 and 11
+Starting with Windows 10, Microsoft began releasing feature updates of Windows twice per year. These releases brought new functionalities, and are governed by Microsoft's modern lifecycle policy, which specifies a support period of 18-36 months. This is in contrast to previous Windows versions, which received only infrequent updates via service packs, and whose support was governed by the fixed lifecycle policy. With the release of Windows 11, both Windows 10 and 11 started receiving annual feature updates in the second half of the year.
+Once a release's support period ends, devices must be updated to the latest feature update in order to receive updates from Microsoft. As such, for Home and Pro editions of Windows 10 and 11, the latest Windows version is downloaded and installed automatically when the device approaches the end of support date.
+
+In addition to the commonly used editions like Home and Pro, Microsoft offers specialized Long-Term Servicing Channel (LTSC) versions of Windows 10 with longer support timelines, governed by Microsoft's fixed lifecycle policy. For instance, Windows 10 Enterprise 2016 LTSB will receive extended support until October 13, 2026, and Windows 10 LTSC 2019 will receive extended support until January 9, 2029.
+
+Adoption by other companies
+SAP's "Security Patch Day", when the company advises users to install security updates, was chosen to coincide with Patch Tuesdays. Adobe Systems' update schedule for Flash Player since November 2012 also coincides with Patch Tuesday. One of the reasons for this is that Flash Player comes as part of Windows starting with Windows 8 and Flash Player updates for the built-in and the plugin based version both need to be published at the same time in order to prevent reverse-engineering threats. Oracle's quarterly updates coincide with Patch Tuesday.
+
+Bandwidth impact
+Windows Update uses the Background Intelligent Transfer Service (BITS) to download the updates, using idle network bandwidth. However BITS will use the speed as reported by the network interface (NIC) to calculate bandwidth. This can lead to bandwidth calculation errors, for example when a fast network adapter (e.g. 10 Mbit/s) is connected to the network via a slow link (e.g. 56 kbit/s) –  according to Microsoft "BITS will compete for the full bandwidth [of the NIC] ... BITS has no visibility of the network traffic beyond the client."Furthermore, the Windows Update servers of Microsoft do not honor the TCP's slow start congestion control strategy. As a result, other users on the same network may experience significantly slower connections from machines actively retrieving updates. This can be particularly noticeable in environments where many machines individually retrieve updates over a shared, bandwidth-constrained link such as those found in many multi-PC homes and small to medium-sized businesses. Bandwidth demands of patching large numbers of computers can be reduced significantly by deploying Windows Server Update Services (WSUS) to distribute the updates locally.
+In addition to updates being downloaded from Microsoft servers, Windows 10 devices can "share" updates in a peer-to-peer fashion with other Windows 10 devices on the local network, or even with Windows 10 devices on the internet. This can potentially distribute updates faster while reducing usage for networks with a metered connection.
+
+See also
+History of Microsoft Windows
+Full disclosure (computer security)
+
+References
+Further reading
+Evers, Joris (2005-09-09). "Microsoft pulls 'critical' Windows update". CNET News.com. Retrieved 2006-12-12.
+Schneier, Bruce (17 July 2006). "Zero-Day Microsoft PowerPoint Vulnerability". Schneier on Security. Example of report about vulnerability found in the wild with timing seemingly coordinated with "Patch Tuesday"
+Schneier, Bruce (7 September 2006). "Microsoft and FairUse4WM". Schneier on Security. Example of a quick patch response, not due to a security issue but for DRM-related reasons.
+
+External links
+Microsoft Patch Tuesday Countdown
+Microsoft Security Bulletin
+Title: Patch_Tuesday
+Patch Tuesday (also known as Update Tuesday) is an unofficial term used to refer to when Microsoft, Adobe, Oracle and others regularly release software patches for their software products. It is widely referred to in this way by the industry. Microsoft formalized Patch Tuesday in October 2003. Patch Tuesday is known within Microsoft also as the "B" release, to distinguish it from the "C" and "D" releases that occur in the third and fourth weeks of the month, respectively.Patch Tuesday occurs on the second Tuesday of each month in North America. Critical security updates are occasionally released outside of the normal Patch Tuesday cycle; these are known as "Out-of-band" releases. As far as the integrated Windows Update (WU) function is concerned, Patch Tuesday begins at 10:00 a.m. Pacific Time. Vulnerability information is immediately available in the Security Update Guide. The updates show up in Download Center before they are added to WU, and the KB articles are unlocked later.
+Daily updates consist of malware database refreshes for Microsoft Defender and Microsoft Security Essentials, these updates are not part of the normal Patch Tuesday release cycle.
+
+History
+Starting with Windows 98, Microsoft included Windows Update, which once installed and executed would check for patches to Windows and its components, which Microsoft would release intermittently. With the release of Microsoft Update, this system also checks for updates for other Microsoft products, such as Microsoft Office, Visual Studio and SQL Server.
+Earlier versions of Windows Update suffered from two problems:
+
+Less experienced users often remained unaware of Windows Update and did not install it. Microsoft countered this issue in Windows ME with the Automatic Updates component, which displayed availability of updates, with the option of automatic installation.
+Customers with multiple copies of Windows, such as corporate users, not only had to update every Windows deployment in the company but also to uninstall patches issued by Microsoft that broke existing functionality.Microsoft introduced "Patch Tuesday" in October 2003 to reduce the cost of distributing patches after the Blaster worm. This system accumulates security patches over a month, and dispatches them all on the second Tuesday of each month, an event for which system administrators may prepare. The following day, informally known as "Exploit Wednesday", marks the time when exploits may appear in the wild which take advantage on unpatched machines of the newly announced vulnerabilities.
+Tuesday was chosen as the optimal day of the week to distribute software patches. This is done to maximize the amount of time available before the upcoming weekend to correct any issues that might arise with those patches, while leaving Monday free to address other unexpected issues that might have arisen over the preceding weekend.
+
+Security implications
+An obvious security implication is that security problems that have a solution are withheld from the public for up to a month. This policy is adequate when the vulnerability is not widely known or is extremely obscure, but that is not always the case.
+There have been cases where vulnerability information became public or actual worms were circulating prior to the next scheduled Patch Tuesday. In critical cases Microsoft issues corresponding patches as they become ready, alleviating the risk if updates are checked for and installed frequently.
+At the Ignite 2015 event, Microsoft revealed a change in distributing security patches. They release security updates to home PCs, tablets and phones as soon as they are ready, while enterprise customers will stay on the monthly update cycle, which was reworked as Windows Update for Business.
+
+Exploit Wednesday
+Many exploitation events are seen shortly after the release of a patch; analysis of the patch helps exploit developers to immediately take advantage of the previously undisclosed vulnerability, which will remain in unpatched systems. Therefore, the term "Exploit Wednesday" was coined.
+
+Discontinued Windows versions
+Microsoft warned users that it discontinued support for Windows XP starting on April 8, 2014 –  users running Windows XP afterwards would be at the risk of attacks. As security patches of newer Windows versions can reveal similar (or same) vulnerabilities already present in older Windows versions, this can allow attacks on devices with unsupported Windows versions (cf. "zero-day attacks"). However Microsoft stopped fixing such (and other) vulnerabilities in unsupported Windows versions, regardless how widely known they became, leaving devices running these Windows versions vulnerable to attacks.  Microsoft made a singular exception during the rapid spread of the WannaCry ransomware and released patches in May 2017 for the by then-unsupported Windows XP, Windows 8, and Windows Server 2003 (in addition to then supported Windows versions).For Windows Vista "extended support" was ended April 11, 2017, which will leave vulnerabilities discovered afterwards unfixed, creating the same situation for Vista as for XP before.For Windows 7 (including Service Pack 1), support ended January 14, 2020, and on January 10, 2023 for Windows 8.1; this will cause the same "unfixed vulnerabilities" issue for users of these operating systems. Support for Windows 8 already ended January 12, 2016 (with users having to install Windows 8.1 or Windows 10 to continue to get support), and support for Windows 7 without SP1 was ended April 9, 2013 (with the ability to install SP1 to continue to get support until 2020, or having to install Windows 8.1 or Windows 10 to receive support after 2020).
+
+Windows 10 and 11
+Starting with Windows 10, Microsoft began releasing feature updates of Windows twice per year. These releases brought new functionalities, and are governed by Microsoft's modern lifecycle policy, which specifies a support period of 18-36 months. This is in contrast to previous Windows versions, which received only infrequent updates via service packs, and whose support was governed by the fixed lifecycle policy. With the release of Windows 11, both Windows 10 and 11 started receiving annual feature updates in the second half of the year.
+Once a release's support period ends, devices must be updated to the latest feature update in order to receive updates from Microsoft. As such, for Home and Pro editions of Windows 10 and 11, the latest Windows version is downloaded and installed automatically when the device approaches the end of support date.
+
+In addition to the commonly used editions like Home and Pro, Microsoft offers specialized Long-Term Servicing Channel (LTSC) versions of Windows 10 with longer support timelines, governed by Microsoft's fixed lifecycle policy. For instance, Windows 10 Enterprise 2016 LTSB will receive extended support until October 13, 2026, and Windows 10 LTSC 2019 will receive extended support until January 9, 2029.
+
+Adoption by other companies
+SAP's "Security Patch Day", when the company advises users to install security updates, was chosen to coincide with Patch Tuesdays. Adobe Systems' update schedule for Flash Player since November 2012 also coincides with Patch Tuesday. One of the reasons for this is that Flash Player comes as part of Windows starting with Windows 8 and Flash Player updates for the built-in and the plugin based version both need to be published at the same time in order to prevent reverse-engineering threats. Oracle's quarterly updates coincide with Patch Tuesday.
+
+Bandwidth impact
+Windows Update uses the Background Intelligent Transfer Service (BITS) to download the updates, using idle network bandwidth. However BITS will use the speed as reported by the network interface (NIC) to calculate bandwidth. This can lead to bandwidth calculation errors, for example when a fast network adapter (e.g. 10 Mbit/s) is connected to the network via a slow link (e.g. 56 kbit/s) –  according to Microsoft "BITS will compete for the full bandwidth [of the NIC] ... BITS has no visibility of the network traffic beyond the client."Furthermore, the Windows Update servers of Microsoft do not honor the TCP's slow start congestion control strategy. As a result, other users on the same network may experience significantly slower connections from machines actively retrieving updates. This can be particularly noticeable in environments where many machines individually retrieve updates over a shared, bandwidth-constrained link such as those found in many multi-PC homes and small to medium-sized businesses. Bandwidth demands of patching large numbers of computers can be reduced significantly by deploying Windows Server Update Services (WSUS) to distribute the updates locally.
+In addition to updates being downloaded from Microsoft servers, Windows 10 devices can "share" updates in a peer-to-peer fashion with other Windows 10 devices on the local network, or even with Windows 10 devices on the internet. This can potentially distribute updates faster while reducing usage for networks with a metered connection.
+
+See also
+History of Microsoft Windows
+Full disclosure (computer security)
+
+References
+Further reading
+Evers, Joris (2005-09-09). "Microsoft pulls 'critical' Windows update". CNET News.com. Retrieved 2006-12-12.
+Schneier, Bruce (17 July 2006). "Zero-Day Microsoft PowerPoint Vulnerability". Schneier on Security. Example of report about vulnerability found in the wild with timing seemingly coordinated with "Patch Tuesday"
+Schneier, Bruce (7 September 2006). "Microsoft and FairUse4WM". Schneier on Security. Example of a quick patch response, not due to a security issue but for DRM-related reasons.
+
+External links
+Microsoft Patch Tuesday Countdown
+Microsoft Security Bulletin

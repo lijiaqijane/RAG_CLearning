@@ -1,0 +1,57 @@
+Title: Android_version_history
+The version history of the Android mobile operating system began with the public release of its first beta on November 5, 2007. The first commercial version, Android 1.0, was released on September 23, 2008. The operating system is developed by Google on a yearly cycle since at least 2011. New major releases are announced at Google I/O along with its first public beta to supported Google Pixel devices. The stable version is then released later in the year.
+
+Overview
+The development of Android started in 2003 by Android, Inc., which was purchased by Google in 2005. There were at least two internal releases of the software inside Google and the Open Handset Alliance (OHA) before the beta version was released. The beta was released on November 5, 2007, while the software development kit (SDK) was released on November 12, 2007. Several public beta versions of the SDK were released. These releases were done through software emulation as physical devices did not exist to test the operating system. Both the operating system itself and the SDK were released along with their source code, as free software under the Apache License.The first public release of Android 1.0 occurred with the release of the T-Mobile G1 (aka HTC Dream) in October 2008. Android 1.0 and 1.1 were not released under specific code names. The code names "Astro Boy" and "Bender" were tagged internally on some of the early pre-1.0 milestone builds and were never used as the actual code names of the 1.0 and 1.1 releases of the OS.The project manager, Ryan Gibson, conceived using a confectionery-themed naming scheme for public releases, starting with Android 1.5 Cupcake. Google announced in August 2019 they were ending the confectionery theming scheme to use numerical ordering for future versions. The first release under the numerical order format was Android 10, which was released September 2019.
+In 2017, Google announced that Google Play would begin to require apps to target a recent Android version. Since then, a new major Android version has been released in the second half of each year, and apps must target it by August 31 of the following year for new apps, or November 1 for app updates.
+
+Version history
+The following tables show the release dates and key features of all Android operating system updates to date, listed chronologically by their official application programming interface (API) levels.
+
+Android 1.0
+Android 1.1
+Android 1.5 Cupcake
+Android 1.6 Donut
+Android 2.0 Eclair
+Android 2.0.1 Eclair
+Android 2.1 Eclair
+Android 2.2 Froyo
+Android 2.3 Gingerbread
+Android 2.3.3 Gingerbread
+Android 3.0 Honeycomb
+Android 3.1 Honeycomb
+Android 3.2 Honeycomb
+Android 4.0 Ice Cream Sandwich
+Android 4.0.3 Ice Cream Sandwich
+Android 4.1 Jelly Bean
+Android 4.2 Jelly Bean
+Android 4.3 Jelly Bean
+Android 4.4 KitKat
+Android 4.4W KitKat, with wearable extensions
+Android 5.0 Lollipop
+Android 5.1 Lollipop
+Android 6.0 Marshmallow
+Android 7.0 Nougat
+Android 7.1 Nougat
+Android 8.0 Oreo
+Android 8.1 Oreo
+Android 9 Pie
+Android 10
+Android 11
+Android 12
+Android 12L
+Android 13
+Android 14
+Hardware requirements
+The main hardware platform for Android is the 64-bit ARM architecture (i.e. ARMv8-A; previously the 32-bit ARMv7 architecture was supported and first ARMv5), with x86 and MIPS architectures also officially supported in later versions of Android. MIPS support has since been deprecated and support was removed in NDK r17.Android 1.0 through 1.5 required a 2 megapixel camera with autofocus camera. This was relaxed to a fixed-focus camera with Android 1.6.In 2012, Android devices with Intel processors began to appear, including phones and tablets. While gaining support for 64-bit platforms, Android was first made to run on 64-bit x86 and then on ARM64. Since Android 5.0 Lollipop, 64-bit variants of all platforms are supported in addition to the 32-bit variants.
+Requirements for the minimum amount of RAM for devices running Android 7.1 depend on screen size and density and type of CPU, ranging from 816 MB–1.8 GB for 64-bit and 512 MB–1.3 GB for 32-bit meaning in practice 1 GB for the most common type of display (while minimum for Android watch is 416 MB). The recommendation for Android 4.4 is to have at least 512 MB of RAM, while for "low RAM" devices 340 MB is the required minimum amount that does not include memory dedicated to various hardware components such as the baseband processor. Android 4.4 requires a 32-bit ARMv7, MIPS or x86 architecture processor, together with an OpenGL ES 2.0 compatible graphics processing unit (GPU). Android supports OpenGL ES 1.1, 2.0, 3.0, 3.2 and since Android 7.0 Vulkan (and version 1.1 available for some devices). Some applications may explicitly require a certain version of the OpenGL ES, and suitable GPU hardware is required to run such applications. In 2021, Android was ported to RISC-V. In 2021, Qualcomm said it will support more updates.
+
+See also
+iOS version history
+Wear OS § Version history
+
+Explanatory notes
+References
+External links
+Official Android website
+Android Open Source Project website

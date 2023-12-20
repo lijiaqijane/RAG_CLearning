@@ -1,0 +1,104 @@
+Title: TOP500#TOP_500
+The TOP500 project ranks and details the 500 most powerful non-distributed computer systems in the world. The project was started in 1993 and publishes an updated list of the supercomputers twice a year. The first of these updates always coincides with the International Supercomputing Conference in June, and the second is presented at the ACM/IEEE Supercomputing Conference in November. The project aims to provide a reliable basis for tracking and detecting trends in high-performance computing and bases rankings on HPL benchmarks, a portable implementation of the high-performance LINPACK benchmark written in Fortran for distributed-memory computers.
+The 60th TOP500 was published in November 2022. Since June 2022, the United States' Frontier is the most powerful supercomputer on TOP500, reaching 1102 petaFlops (1.102 exaFlops) on the LINPACK benchmarks. The United States has by far the highest share of total computing power on the list (nearly 50%), while China currently leads the list in number of systems with 173 supercomputers, with the U.S. not far behind in second place. 
+The TOP500 list is compiled by Jack Dongarra of the University of Tennessee, Knoxville, Erich Strohmaier and Horst Simon of the National Energy Research Scientific Computing Center (NERSC) and Lawrence Berkeley National Laboratory (LBNL), and, until his death in 2014, Hans Meuer of the University of Mannheim, Germany.
+The TOP500 project also includes lists such as Green500 (measuring energy efficiency) and HPCG (measuring I/O bandwidth).
+
+History
+In the early 1990s, a new definition of supercomputer was needed to produce meaningful statistics. After experimenting with metrics based on processor count in 1992, the idea arose at the University of Mannheim to use a detailed listing of installed systems as the basis. In early 1993, Jack Dongarra was persuaded to join the project with his LINPACK benchmarks. A first test version was produced in May 1993, partly based on data available on the Internet, including the following sources:
+"List of the World's Most Powerful Computing Sites" maintained by Gunter Ahrendt
+David Kahaner, the director of the Asian Technology Information Program (ATIP); published a report in 1992, titled "Kahaner Report on Supercomputer in Japan" which had an immense amount of data.The information from those sources was used for the first two lists. Since June 1993, the TOP500 is produced bi-annually based on site and vendor submissions only.
+Since 1993, performance of the No. 1 ranked position has grown steadily in accordance with Moore's law, doubling roughly every 14 months. In June 2018, Summit was fastest with an Rpeak of 187.6593 PFLOPS. For comparison, this is over 1,432,513 times faster than the Connection Machine CM-5/1024 (1,024 cores), which was the fastest system in November 1993 (twenty-five years prior) with an Rpeak of 131.0 GFLOPS.
+
+Architecture and operating systems
+As of August 2022, all supercomputers on TOP500 are 64-bit, mostly based on CPUs using the x86-64 instruction set architecture (of which  384 are Intel EMT64-based and  101 are AMD AMD64-based, including the top 1 and most systems on top 10, with only one Intel-based on top 10, the 9th). The few exceptions are all based on RISC architectures. Six  supercomputers are based on ARM64, seven are based on the Power ISA  used by IBM Power microprocessors, no longer any SPARC-based, but previously the list had three supercomputers based on Fujitsu-designed SPARC64  chips. One computer uses another non-US design, the Japanese PEZY-SC (based, in part, on the British  32-bit ARM) as an accelerator paired with Intel's Xeon.
+In recent years heterogeneous computing, mostly using Nvidia's graphics processing units (GPUs) or Intel's x86-based Xeon Phi as coprocessors, has dominated the TOP500 because of better performance per watt ratios and higher absolute performance, while AMD GPUs have taken the top 1 and displaced Nvidia in top 10 part of the list. The recent exceptions include the aforementioned Fugaku, Sunway TaihuLight, and K computer. Tianhe-2A is also an interesting exception, as US sanctions prevented use of Xeon Phi; instead, it was upgraded to use the Chinese-designed Matrix-2000 accelerators.
+Two computers which first appeared on the list in 2018 are based on architectures new to the TOP500. One was a new x86-64 microarchitecture from Chinese manufacturer Sugon, using Hygon Dhyana CPUs (these resulted from a collaboration with AMD, and are a minor variant of Zen-based AMD EPYC) and was ranked 38th, now 117th, and the other was the first ARM-based computer on the list –  using Cavium ThunderX2 CPUs. Before the ascendancy of 32-bit x86 and later 64-bit x86-64 in the early 2000s, a variety of RISC processor families made up most TOP500 supercomputers, including SPARC, MIPS, PA-RISC, and Alpha.
+
+All the fastest supercomputers since the Earth Simulator supercomputer have used operating systems based on Linux. Since November 2017, all the listed supercomputers use an operating system based on the Linux kernel.Since November 2015, no computer on the list runs Windows (while Microsoft reappeared on the list in 2021 with Ubuntu based on Linux). In November 2014, Windows Azure cloud computer was no longer on the list of fastest supercomputers (its best rank was 165th in 2012), leaving the Shanghai Supercomputer Center's Magic Cube as the only Windows-based supercomputer on the list, until it also dropped off the list. It was ranked 436th in its last appearance on the list released in June 2015, while its best rank was 11th in 2008. There are no longer any Mac OS computers on the list. It had at most five such systems at a time, one more than the Windows systems that came later, while the total performance share for Windows was higher. Their relative performance share of the whole list was however similar, and never high for either. In 2004 System X supercomputer based on Mac OS X (Xserve, with 2,200 PowerPC 970 processors) once ranked 7th place.It has been well over a decade since MIPS systems dropped entirely off the list though the Gyoukou supercomputer that jumped to 4th place in November 2017 had a MIPS-based design as a small part of the coprocessors. Use of 2,048-core coprocessors (plus 8× 6-core MIPS, for each, that "no longer require to rely on an external Intel Xeon E5 host processor") made the supercomputer much more energy efficient than the other top 10 (i.e. it was 5th on Green500 and other such ZettaScaler-2.2-based systems take first three spots). At 19.86 million cores, it was by far the largest system by core-count, with almost double that of the then-best manycore system, the Chinese Sunway TaihuLight.
+
+TOP 500
+As of November 2023, the number one supercomputer, Frontier, an AMD-based system, is also the number two system on Green500. The leader on Green500 is the even smaller new Henri, Nvidia-based supercomputer. In June 2022, the top 4 systems of Graph500 both used AMD CPUs and AMD accelerators.
+After an upgrade, for the 56th TOP500 in November 2020,
+
+Fugaku grew its HPL performance to 442 petaflops, a modest increase from the 416 petaflops the system achieved when it debuted in June 2020. More significantly, the ARMv8.2 based Fugaku increased its performance on the new mixed precision HPC-AI benchmark to 2.0 exaflops, besting its 1.4 exaflops mark recorded six months ago. These represent the first benchmark measurements above one exaflop for any precision on any type of hardware.
+Summit, a previously fastest supercomputer, is currently highest-ranked IBM-made supercomputer; with IBM POWER9 CPUs. Sequoia became the last IBM Blue Gene/Q model to drop completely off the list; it had been ranked 10th on the 52nd list (and 1st on the June 2012, 41st list, after an upgrade).
+
+For the first time, all 500 systems deliver a petaflop or more on the High Performance Linpack (HPL) benchmark, with the entry level to the list now at 1.022 petaflops." However, for a different benchmark "Summit and Sierra remain the only two systems to exceed a petaflop on the HPCG benchmark, delivering 2.9 petaflops and 1.8 petaflops, respectively. The average HPCG result on the current list is 213.3 teraflops, a marginal increase from 211.2 six months ago.
+Microsoft is back on the TOP500 list with six Microsoft Azure instances (that use/are benchmarked with Ubuntu, so all the supercomputers are still Linux-based), with CPUs and GPUs from same vendors, the fastest one currently 11th, and another older/slower previously made 10th. And Amazon with one AWS instance currently ranked 64th (it was previously ranked 40th). The number of Arm-based supercomputers is 6,  currently all Arm-based supercomputers use the same Fujitsu CPU as in the number 2 system, with the next one previously ranked 13th, now 25th.
+Legend:
+Rank – Position within the TOP500 ranking. In the TOP500 list table, the computers are ordered first by their Rmax value. In the case of equal performances (Rmax value) for different computers, the order is by Rpeak. For sites that have the same computer, the order is by memory size and then alphabetically.
+Rmax – The highest score measured using the LINPACK benchmarks suite. This is the number that is used to rank the computers. Measured in quadrillions of 64-bit floating point operations per second, i.e., petaFLOPS.
+Rpeak – This is the theoretical peak performance of the system. Computed in petaFLOPS.
+Name – Some supercomputers are unique, at least on its location, and are thus named by their owner.
+Model – The computing platform as it is marketed.
+Processor – The instruction set architecture or processor microarchitecture, alongside GPU and accelerators when available.
+Interconnect – The interconnect between computing nodes. InfiniBand is most used  (38%) by performance share, while Gigabit Ethernet is most used (54%) by number of computers.
+Manufacturer – The manufacturer of the platform and hardware.
+Site – The name of the facility operating the supercomputer.
+Country – The country in which the computer is located.
+Year – The year of installation or last major update.
+Operating system – The operating system that the computer uses.
+
+Other rankings
+Top countries
+Numbers below represent the number of computers in the TOP500 that are in each of the listed countries or territories. As of 2023, United States has the most supercomputers on the list, with 161 machines. The United States has the highest aggregate computational power at 3,639 Petaflops Rmax with Japan second (654 Pflop/s) and China third (398 Pflop/s).
+
+Fastest supercomputer in TOP500 by country
+(As of June 2022)
+
+Systems ranked No. 1
+HPE Cray Frontier (Oak Ridge National Laboratory  United States, June 2022 – Present)
+Supercomputer Fugaku (Riken Center for Computational Science  Japan, June 2020 – June 2022)
+IBM Summit (Oak Ridge National Laboratory  United States, June 2018 – June 2020)
+NRCPC Sunway TaihuLight (National Supercomputing Center in Wuxi  China, June 2016 – November 2017)
+NUDT Tianhe-2A (National Supercomputing Center of Guangzhou  China, June 2013 – June 2016)
+Cray Titan (Oak Ridge National Laboratory  United States, November 2012 – June 2013)
+IBM Sequoia Blue Gene/Q (Lawrence Livermore National Laboratory  United States, June 2012 – November 2012)
+Fujitsu K computer (Riken Advanced Institute for Computational Science  Japan, June 2011 – June 2012)
+NUDT Tianhe-1A (National Supercomputing Center of Tianjin  China, November 2010 – June 2011)
+Cray Jaguar (Oak Ridge National Laboratory  United States, November 2009 – November 2010)
+IBM Roadrunner (Los Alamos National Laboratory  United States, June 2008 – November 2009)
+IBM Blue Gene/L (Lawrence Livermore National Laboratory  United States, November 2004 – June 2008)
+NEC Earth Simulator (Earth Simulator Center  Japan, June 2002 – November 2004)
+IBM ASCI White (Lawrence Livermore National Laboratory  United States, November 2000 – June 2002)
+Intel ASCI Red (Sandia National Laboratories  United States, June 1997 – November 2000)
+Hitachi CP-PACS (University of Tsukuba  Japan, November 1996 – June 1997)
+Hitachi SR2201 (University of Tokyo  Japan, June 1996 – November 1996)
+Fujitsu Numerical Wind Tunnel (National Aerospace Laboratory of Japan  Japan, November 1994 – June 1996)
+Intel Paragon XP/S140 (Sandia National Laboratories  United States, June 1994 – November 1994)
+Fujitsu Numerical Wind Tunnel (National Aerospace Laboratory of Japan  Japan, November 1993 – June 1994)
+TMC CM-5 (Los Alamos National Laboratory  United States, June 1993 – November 1993)
+
+Additional statistics
+By number of systems as of June 2021:
+Note: All operating systems of the TOP500 systems are Linux-family based, but Linux above is generic Linux.
+Sunway TaihuLight is the system with the most CPU cores (10,649,600). Tianhe-2 has the most GPU/accelerator cores (4,554,752). Fugaku is the system with the greatest power consumption with 29,900 kilowatts.
+
+New developments in supercomputing
+In November 2014, it was announced that the United States was developing two new supercomputers to exceed China's Tianhe-2 in its place as world's fastest supercomputer. The two computers, Sierra and Summit, will each exceed Tianhe-2's 55 peak petaflops. Summit, the more powerful of the two, will deliver 150–300 peak petaflops. On 10 April 2015, US government agencies banned selling chips, from Nvidia to supercomputing centers in China as "acting contrary to the national security ... interests of the United States"; and Intel Corporation from providing Xeon chips to China due to their use, according to the US, in researching nuclear weapons – research to which US export control law bans US companies from contributing – "The Department of Commerce refused, saying it was concerned about nuclear research being done with the machine."On 29 July 2015, President Obama signed an executive order creating a National Strategic Computing Initiative calling for the accelerated development of an exascale (1000 petaflop) system and funding research into post-semiconductor computing.In June 2016, Japanese firm Fujitsu announced at the International Supercomputing Conference that its future exascale supercomputer will feature processors of its own design that implement the ARMv8 architecture. The Flagship2020 program, by Fujitsu for RIKEN plans to break the exaflops barrier by 2020 through the Fugaku supercomputer, (and "it looks like China and France have a chance to do so and that the United States is content – for the moment at least – to wait until 2023 to break through the exaflops barrier.") These processors will also implement extensions to the ARMv8 architecture equivalent to HPC-ACE2 that Fujitsu is developing with Arm.In June 2016, Sunway TaihuLight became the No. 1 system with 93 petaflop/s (PFLOP/s) on the Linpack benchmark.In November 2016, Piz Daint was upgraded, moving it from 8th to 3rd, leaving the US with no systems under the TOP3 for only the 2nd time ever.Inspur has been one of the largest HPC system manufacturer based out of Jinan, China. As of May 2017, Inspur has become the third manufacturer to have manufactured 64-way system – a record which has been previously mastered by IBM and HP. The company has registered over $10B in revenues and have successfully provided a number of HPC systems to countries outside China such as Sudan, Zimbabwe, Saudi Arabia, Venezuela. Inspur was also a major technology partner behind both the supercomputers from China, namely Tianhe-2 and Taihu which lead the top 2 positions of TOP500 supercomputer list up to November 2017. Inspur and Supermicro released a few platforms aimed at HPC using GPU such as SR-AI and AGX-2 in May 2017.In November 2017, for the second time in a row there were no system from the US under the TOP3. No. 1 and No. 2 were installed in China, a system in Switzerland at #3, and a new system in Japan was #4 pushing the top US system to #5.In June 2018, Summit, an IBM-built system at the Oak Ridge National Laboratory (ORNL) in Tennessee, US, took the No. 1 spot with a performance of 122.3 petaflop/s (PFLOP/s), and Sierra, a very similar system at the Lawrence Livermore National Laboratory, CA, USA took #3. These two system took also the first two spots on the HPCG benchmark. Due to Summit and Sierra, the US took back the lead as consumer of HPC performance with 38.2% of the overall installed performance while China was second with 29.1% of the overall installed performance. For the first time ever, the leading HPC manufacturer is not a US company. Lenovo took the lead with 23.8% of systems installed. It is followed by HPE with 15.8%, Inspur with 13.6%, Cray with 11.2%, and Sugon with 11%.
+On 18 March 2019, the United States Department of Energy and Intel announced the first exaFLOP supercomputer would be operational at Argonne National Laboratory by the end of 2021. The computer, named Aurora, is to be delivered to Argonne by Intel and Cray.On 7 May 2019, The U.S. Department of Energy announced a contract with Cray to build the "Frontier" supercomputer at Oak Ridge National Laboratory. Frontier is anticipated to be operational in 2021 and, with a performance of greater than 1.5 exaflops, should then be the world's most powerful computer.Since June 2019, all TOP500 systems deliver a petaflop or more on the High Performance Linpack (HPL) benchmark, with the entry level to the list now at 1.022 petaflops.In May 2022, the Frontier supercomputer broke the exascale barrier, completing more than a quintillion 64-bit floating point arithmetic calculations per second. Frontier clocked in at approximately 1.1 exaflops, beating out the previous record-holder, Fugaku.
+
+Large machines not on the list
+Some major systems are not on the list. A prominent example is the NCSA's Blue Waters which publicly announced the decision not to participate in the list because they do not feel it accurately indicates the ability of any system to do useful work. Other organizations decide not to list systems for security and/or commercial competitiveness reasons. One such example is the National Supercomputing Center at Qingdao's OceanLight supercomputer, completed in March 2021, which was submitted for, and won, the Gordon Bell Prize. The computer is an exaflop computer, but was not submitted to the TOP500 list; the first exaflop machine submitted to the TOP500 list was Frontier. Analysts suspected that the reason the NSCQ did not submit what would otherwise have been the world's first exascale supercomputer was to avoid inflaming political sentiments and fears within the United States, in the context of the United States – China trade war. Additional purpose-built machines that are not capable or do not run the benchmark were not included, such as RIKEN MDGRAPE-3 and MDGRAPE-4. A Google Tensor Processing Unit v4 pod is capable of 1.1 exaflops of peak performance, however these units are highly specialized to run machine learning workloads and the TOP500 measures a specific benchmark algorithm using a specific numeric precision.
+
+Computers and architectures that have dropped off the list
+IBM Roadrunner is no longer on the list (nor is any other using the Cell coprocessor, or PowerXCell).
+Although Itanium-based systems reached second rank in 2004, none now remain.
+Similarly (non-SIMD-style) vector processors (NEC-based such as the Earth simulator that was fastest in 2002) have also fallen off the list. Also the Sun Starfire computers that occupied many spots in the past now no longer appear.
+The last non-Linux computers on the list –  the two AIX ones –  running on POWER7 (in July 2017 ranked 494th and 495th originally 86th and 85th), dropped off the list in November 2017.
+
+See also
+Computer science
+Computing
+Graph500
+Green500
+HPC Challenge Benchmark
+Instructions per second
+LINPACK benchmarks
+List of fastest computers
+
+References
+External links
+Official website
+LINPACK benchmarks at TOP500

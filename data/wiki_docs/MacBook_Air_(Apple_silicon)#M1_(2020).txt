@@ -1,0 +1,25 @@
+Title: MacBook_Air_(Apple_silicon)#M1_(2020)
+The MacBook Air is a line of Mac laptops made by Apple Inc. In 2020, Apple stopped using Intel processors in the Air and switched to using their own Apple silicon M-series chips. In the current product line, the MacBook Air is Apple's entry-level laptop, situated below the performance range MacBook Pro, and is currently sold with 13-inch and 15-inch screens.Apple released the MacBook Air with the Apple M1 system on a chip in November 2020. A redesigned model based on the Apple M2 chip was released in July 2022, and the first 15-inch MacBook Air was released in June 2023.
+
+M1 (2020)
+On November 10, 2020, Apple announced an updated MacBook Air with an Apple-designed M1 system-on-a-chip (SoC), launched alongside an updated Mac Mini and 13-inch MacBook Pro as the first Macs with Apple's new line of custom ARM-based Apple silicon processors. Apple released the device a week later, on November 17. The device uses a fanless design and adds support for Wi-Fi 6, Thunderbolt 3/USB4 and Wide color (P3). The M1 MacBook Air can only run one external display, compared to the previous Intel-based model which was capable of running two 4K displays. The FaceTime camera remains 720p, drawing some criticism, but Apple advertises an improved image signal processor for higher quality video.
+
+Reception
+The M1 MacBook Air received positive reviews, with much of the praise going to the capabilities of the M1 chip.
+In his review for Engadget, Devindra Hardawar gave the MacBook Air a score of 94/100, praising the performance as "shockingly responsive" and highlighting the lack of fan noise and "excellent" keyboard and trackpad as among some of the pros. Other than that, he only lightly touched on the notebook's design and feel, citing the fact that it hadn't really changed much since the early 2020 MacBook Air. He did, however, praise the case as feeling "sturdy as ever".Writing for Wired, Julian Chokkattu bemoaned the fact that the Air only came with 2 USB-C ports, but praised the keyboard and battery life. He also lauded the fanless design, saying it was something he found himself "appreciating over and over again".The M1 MacBook Air has suffered some problems during its lifetime. Some users reported alarmingly high solid-state drive usage and wear, which drew a lot of attention, as if the drive failed, it could not be replaced by the user. Some USB-C docks also caused Apple Silicon MacBooks to stop working.During tests, the battery life of the MacBook Air was many hours short of Apple's claims, leading to some questioning the veracity of the claims. However, when the same tests were repeated with a lower brightness setting, the MacBook exceeded Apple's claims. During initial testing, the battery performance of the MacBook was so phenomenal, that Apple initially presumed the slow change of the battery meter to be a bug.
+
+Technical specifications
+M2 (2022)
+On June 6, 2022, at WWDC 2022, Apple announced an updated MacBook Air based on the M2 system on a chip. It incorporates several design elements from the M1 Pro and M1 Max MacBook Pro models, such as a flat, slab-shaped design, full-sized function keys, and a Liquid Retina 60 Hz display with rounded corners and a notch for a 1080p webcam. It includes two combination Thunderbolt 3 / USB 4 ports and adds MagSafe charging. Along with the retaining Space Gray and Silver color options, the Gold color option (introduced with iPhone 8 in 2017) has been discontinued and replaced by Starlight color option (a color mixture between natural silver and champagne gold) and added the new Midnight color option (a color mixture between dark blue and dark gray).
+The M2 MacBook Air 13 inch started shipping on July 15, 2022. A 15-inch version was announced at Apple's WWDC event on June 5, 2023. Apart from the larger screen, the hardware specs are mostly identical to the other M2 Air models. Preorders for the new model began on June 6, 2023, with deliveries and retail availability beginning the following week on June 12.
+
+Reception
+The M2 MacBook Air was generally well received. Several reviewers praised the new design, as well as the improved display, performance, and webcam. Dan Seifert of The Verge described it as "a success on virtually every level". The price increase over the M1 model was noted, with most concluding that the M1 model was a better value.
+Due to a lack of active cooling, the M2 can overheat on high workloads, leading to thermal throttling issues.
+
+Technical specifications
+Timeline
+References
+
+
+== Further reading ==

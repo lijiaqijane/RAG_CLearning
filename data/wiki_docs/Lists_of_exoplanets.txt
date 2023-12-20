@@ -1,0 +1,58 @@
+Title: Lists_of_exoplanets
+These are lists of exoplanets. As of 7 December 2023, there are 5,557 confirmed exoplanets in 4,132 planetary systems, with 941 systems having more than one planet. Most of these were discovered by the Kepler space telescope. There are an additional 1,984 potential exoplanets from Kepler's first mission yet to be confirmed, as well as 977 from its "Second Light" mission and 4,571 from the Transiting Exoplanet Survey Satellite (TESS) mission.For yearly lists on physical, orbital, and other properties, as well as on discovery circumstances and other aspects, see § Specific exoplanet lists.
+
+Nomenclature
+The convention for naming exoplanets is an extension of the system used for designating multiple-star systems as adopted by the International Astronomical Union (IAU). For exoplanets orbiting a single star, the IAU designation is formed by taking the designated or proper name of its parent star, and adding a lower case letter. Letters are given in order of each planet's discovery around the parent star, so that the first planet discovered in a system is designated "b" (the parent star is considered "a") and later planets are given subsequent letters. If several planets in the same system are discovered at the same time, the closest one to the star gets the next letter, followed by the other planets in order of orbital size. A provisional IAU-sanctioned standard exists to accommodate the designation of circumbinary planets. A limited number of exoplanets have IAU-sanctioned proper names. Other naming systems exist.
+
+Methods of detection
+Direct imaging
+Planets are extremely faint compared to their parent stars. For example, a Sun-like star is about a billion times brighter than the reflected light from any exoplanet orbiting it. It is difficult to detect such a faint light source, and furthermore, the parent star causes a glare that tends to wash it out. It is necessary to block the light from the parent star to reduce the glare while leaving the light from the planet detectable; doing so is a major technical challenge which requires extreme optothermal stability. All exoplanets that have been directly imaged are both large (more massive than Jupiter) and widely separated from their parent stars.
+Specially designed direct-imaging instruments such as Gemini Planet Imager, VLT-SPHERE, and SCExAO will image dozens of gas giants, but the vast majority of known extrasolar planets have only been detected through indirect methods.
+
+Indirect methods
+Transit methodIf a planet crosses (or transits) in front of its parent star's disk, then the observed brightness of the star drops by a small amount. The amount by which the star dims depends on its size and on the size of the planet, among other factors. Because the transit method requires that the planet's orbit intersect a line-of-sight between the host star and Earth, the probability that an exoplanet in a randomly oriented orbit will be observed to transit the star is somewhat small. The Kepler telescope used this method.Radial velocity or Doppler methodAs a planet orbits a star, the star also moves in its own small orbit around the system's center of mass. Variations in the star's radial velocity—that is, the speed with which it moves towards or away from Earth—can be detected from displacements in the star's spectral lines due to the Doppler effect. Extremely small radial-velocity variations can be observed, of 1 m/s or even somewhat less.Transit timing variation (TTV)When multiple planets are present, each one slightly perturbs the others' orbits. Small variations in the times of transit for one planet can thus indicate the presence of another planet, which itself may or may not transit. For example, variations in the transits of the planet Kepler-19b suggest the existence of a second planet in the system, the non-transiting Kepler-19c.Transit duration variation (TDV)When a planet orbits multiple stars or if the planet has moons, its transit time can significantly vary per transit. Although no new planets or moons have been discovered with this method, it is used to successfully confirm many transiting circumbinary planets.Gravitational microlensingMicrolensing occurs when the gravitational field of a star acts like a lens, magnifying the light of a distant background star. Planets orbiting the lensing star can cause detectable anomalies in magnification as it varies over time. Unlike most other methods which have a detection bias towards planets with small (or for resolved imaging, large) orbits, the microlensing method is most sensitive to detecting planets around 1–10 AU away from Sun-like stars.AstrometryAstrometry consists of precisely measuring a star's position in the sky and observing the changes in that position over time. The motion of a star due to the gravitational influence of a planet may be observable. Because the motion is so small, however, this method was not very productive until the 2020s. It has produced only a few confirmed discoveries, though it has been successfully used to investigate the properties of planets found in other ways.Pulsar timingA pulsar (the small, ultradense remnant of a star that has exploded as a supernova) emits radio waves extremely regularly as it rotates. If planets orbit the pulsar, they will cause slight anomalies in the timing of its observed radio pulses. The first confirmed discovery of an extrasolar planet was made using this method. But as of 2011, it has not been very productive; five planets have been detected in this way, around three different pulsars.Variable star timing (pulsation frequency)Like pulsars, there are some other types of stars which exhibit periodic activity. Deviations from periodicity can sometimes be caused by a planet orbiting it. As of 2013, a few planets have been discovered with this method.Reflection/emission modulationsWhen a planet orbits very close to a star, it catches a considerable amount of starlight. As the planet orbits the star, the amount of light changes due to planets having phases from Earth's viewpoint or planets glowing more from one side than the other due to temperature differences.Relativistic beamingRelativistic beaming measures the observed flux from the star due to its motion. The brightness of the star changes as the planet moves closer or further away from its host star.Ellipsoidal variationsMassive planets close to their host stars can slightly deform the shape of the star. This causes the brightness of the star to slightly deviate depending on how it is rotated relative to Earth.PolarimetryWith the polarimetry method, a polarized light reflected off the planet is separated from unpolarized light emitted from the star. No new planets have been discovered with this method, although a few already discovered planets have been detected with this method.Circumstellar disksDisks of space dust surround many stars, thought to originate from collisions among asteroids and comets. The dust can be detected because it absorbs starlight and re-emits it as infrared radiation. Features on the disks may suggest the presence of planets, though this is not considered a definitive detection method.
+
+Specific exoplanet lists
+List of directly imaged exoplanets
+List of exoplanet extremes
+List of exoplanet firsts
+List of exoplanets discovered by the Kepler space telescope
+List of exoplanets observed during Kepler's K2 mission
+List of extrasolar candidates for liquid water
+List of hottest exoplanets
+List of multiplanetary systems
+List of nearest exoplanets
+List of nearest terrestrial exoplanet candidates
+List of potentially habitable exoplanets
+List of proper names of exoplanets
+List of smallest exoplanets
+List of transiting exoplanets
+
+Lists of exoplanet by year of discovery
+List of exoplanets discovered before 2000 (31)
+List of exoplanets discovered between 2000–2009 (379)
+List of exoplanets discovered in 2010 (109)
+List of exoplanets discovered in 2011 (179)
+List of exoplanets discovered in 2012 (149)
+List of exoplanets discovered in 2013 (151)
+List of exoplanets discovered in 2014 (878)
+List of exoplanets discovered in 2015 (151)
+List of exoplanets discovered in 2016 (1513)
+List of exoplanets discovered in 2017 (158)
+List of exoplanets discovered in 2018 (306)
+List of exoplanets discovered in 2019 (172)
+List of exoplanets discovered in 2020 (255)
+List of exoplanets discovered in 2021 (257)
+List of exoplanets discovered in 2022 (315)
+List of exoplanets discovered in 2023 (290)
+
+See also
+Lists of astronomical objects
+
+References
+External links
+The NASA Exoplanet Archive
+The Extrasolar Planet Encyclopaedia — Catalog Listing accessed in 2015-09-28
+Exoplanet Data Explorer accessed in 2015-09-28
+"Open Exoplanets Catalogue". Retrieved 2017-02-27.
+Wright, J. T.; Fakhouri, O.; Marcy, G. W.; Han, E.; Feng, Y.; Johnson, John Asher; Howard, A. W.; Fischer, D. A.; Valenti, J. A. (2011-04-01). "The Exoplanet Orbit Database". Publications of the Astronomical Society of the Pacific. 123 (902): 412–422. arXiv:1012.5676. Bibcode:2011PASP..123..412W. doi:10.1086/659427. ISSN 0004-6280. S2CID 51769219.

@@ -1,0 +1,47 @@
+Title: Jeff_Dean
+Jeffrey Adgate "Jeff" Dean (born July 23, 1968) is an American computer scientist and software engineer. Since 2018, he has been the lead of Google AI. He was appointed Alphabet's chief scientist in 2023 after a reorganization of Alphabet's AI focused groups.
+
+Education
+Dean received a B.S., summa cum laude, from the University of Minnesota in computer science and economics in 1990. He received a Ph.D. in computer science from the University of Washington in 1996, working under Craig Chambers on compilers and whole-program optimization techniques for object-oriented programming languages. He was elected to the National Academy of Engineering in 2009, which recognized his work on "the science and engineering of large-scale distributed computer systems".
+
+Career
+Before joining Google, Dean worked at DEC/Compaq's Western Research Laboratory, where he worked on profiling tools, microprocessor architecture and information retrieval. Much of his work was completed in close collaboration with Sanjay Ghemawat.Before graduate school, he worked at the World Health Organization's Global Programme on AIDS, developing software for statistical modeling and forecasting of the HIV/AIDS pandemic.Dean joined Google in mid-1999, and was appointed the head of its Artificial Intelligence division in April 2018. While at Google, he designed and implemented large portions of the company's advertising, crawling, indexing and query serving systems, along with various pieces of the distributed computing infrastructure that underlies most of Google's products. At various times, he has also worked on improving search quality, statistical machine translation and internal software development tools and has had significant involvement in the engineering hiring process.
+The projects Dean has worked on include:
+
+Spanner, a scalable, multi-version, globally distributed, and synchronously replicated database
+Some of the production system design and statistical machine translation system for Google Translate
+Bigtable, a large-scale semi-structured storage system
+MapReduce, a system for large-scale data processing applications
+LevelDB, an open-source on-disk key-value store
+DistBelief, a proprietary machine-learning system for deep neural networks that was eventually refactored into TensorFlow
+TensorFlow, an open-source machine-learning software libraryHe was an early member of Google Brain, a team that studies large-scale artificial neural networks, and he has headed artificial intelligence efforts since they were split from Google Search.Dean was the subject of controversy when the ethics in AI researcher, Timnit Gebru, challenged Google's research review process, ultimately leading to her departure from the company. Dean responded by publishing a letter on Google's approach to the research process that was the subject of further criticism and controversy.
+
+Philanthropy
+Dean and his wife, Heidi Hopper, started the Hopper-Dean Foundation and began making philanthropic grants in 2011. In 2016, the foundation gave $2 million each to UC Berkeley, Massachusetts Institute of Technology, University of Washington, Stanford University and Carnegie Mellon University to support programs that promote diversity in science, technology, engineering and mathematics (STEM).
+
+Personal life
+Dean is married and has two daughters.
+
+Awards and honors
+Elected to the National Academy of Engineering (2009)
+Fellow of the Association for Computing Machinery (2009)
+ACM-Infosys Foundation Award (2012)
+ACM SIGOPS Mark Weiser Award (2007)
+Fellow of the American Academy of Arts and Sciences (2016)
+Recipient of the IEEE John von Neumann Medal in 2021
+
+Books
+Dean was interviewed for the 2018 book Architects of Intelligence: The Truth About AI from the People Building it by the American futurist Martin Ford.
+
+Major publications
+Jeffrey Dean and Sanjay Ghemawat. 2004. MapReduce: Simplified Data Processing on Large Clusters. OSDI'04: Sixth Symposium on Operating System Design and Implementation (December 2004)
+Fay Chang, Jeff Dean, Sanjay Ghemawat, Wilson C. Hsieh, Deborah A. Wallach, Mike Burrows, Tushar Chandra, Andrew Fikes, and Robert E. Gruber. 2006. Bigtable: A Distributed Storage System for Structured Data. OSDI'06: 7th Symposium on Operating System Design and Implementation (October 2006)
+
+See also
+Sanjay Ghemawat
+MapReduce
+TensorFlow
+
+References
+External links
+Jeff Dean's Google home and publication page

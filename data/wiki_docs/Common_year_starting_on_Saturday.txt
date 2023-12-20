@@ -1,0 +1,85 @@
+Title: Common_year_starting_on_Saturday
+A common year starting on Saturday is any non-leap year (i.e. a year with 365 days) that begins on Saturday, 1 January, and ends on Saturday, 31 December. Its dominical letter hence is B. The most recent year of such kind was 2022 and the next one will be 2033 in the Gregorian calendar or, likewise, 2017 and 2023 in the obsolete Julian calendar.  See below for more.
+Any common year that starts on Wednesday, Friday or Saturday has only one Friday the 13th: the only one in this common year occurs in May. Leap years starting on Friday share this characteristic.
+From July of the year that precedes this year until September in this type of year is the longest period (14 months) that occurs without a Tuesday the 13th. Leap years starting on Wednesday share this characteristic, from August of the common year that precedes it to October in that type of year.
+
+Calendars
+Applicable years
+Gregorian Calendar
+In the (currently used) Gregorian calendar, alongside Sunday, Monday, Wednesday or Friday, the fourteen types of year (seven common, seven leap) repeat in a 400-year cycle (20871 weeks). Forty-three common years per cycle or exactly 10.75% start on a Saturday. The 28-year sub-cycle will break at a century year which is not divisible by 400 (e.g. it broke at the year 1900 but not at the year 2000).
+
+Julian Calendar
+In the now-obsolete Julian calendar, the fourteen types of year (seven common, seven leap) repeat in a 28-year cycle (1461 weeks). A leap year has two adjoining dominical letters, (one for January and February and the other for March to December in the Church of England, as 29 February has no letter). Each of the seven two-letter sequences occurs once within a cycle, and every common letter thrice.
+As the Julian calendar repeats after 28 years that means it will also repeat after 700 years, i.e. 25 cycles. The year's position in the cycle is given by the formula ((year + 8) mod 28) + 1). Years 10, 16 and 27 of the cycle are common years beginning on Saturday. 2017 is year 10 of the cycle. Approximately 10.71% of all years are common years beginning on Saturday.
+
+Holidays
+International
+Valentine's Day and Halloween falls on a Monday
+World Day for Grandparents and the Elderly falls on July 24
+Christmas Day falls on a Sunday
+
+Roman Catholic Solemnities
+Epiphany falls on a Thursday
+Candlemas falls on a Wednesday
+Saint Joseph's Day falls on a Saturday
+The Annunciation of Jesus falls on a Friday
+The Nativity of John the Baptist falls on a Friday
+The Solemnity of Saints Peter and Paul falls on a Saturday
+The Transfiguration of Jesus falls on a Saturday
+The Assumption of Mary falls on a Monday
+The Exaltation of the Holy Cross falls on a Wednesday
+All Saints' Day falls on a Tuesday
+All Souls' Day falls on a Wednesday
+The Feast of Christ the King falls on its earliest possible date, November 20 (or on October 30 in versions of the calendar between 1925 and 1962)
+The First Sunday of Advent falls on its earliest possible date, November 27
+The Immaculate Conception falls on a Thursday
+Gaudete Sunday falls on its earliest possible date, December 11
+Rorate Sunday falls on its earliest possible date, December 18
+
+Australia and New Zealand
+Australia Day falls on a Wednesday
+Waitangi Day falls on a Sunday
+Daylight saving ends on April 3
+ANZAC Day falls on a Monday
+Mother's Day falls on its earliest possible date, May 8
+Father's Day falls on September 4
+Daylight saving begins on September 25 in New Zealand and October 2 in Australia
+
+British Isles
+Saint David's Day falls on a Tuesday
+Mother's Day falls on March 6, March 13, March 20, March 27 or April 3
+Daylight saving begins on March 27
+Saint Patrick's Day falls on a Thursday
+Saint George's Day falls on a Saturday
+Father's Day falls on June 19
+Orangeman's Day falls on a Tuesday
+Daylight saving ends on October 30
+Guy Fawkes Night falls on a Saturday
+Saint Andrew's Day falls on a Wednesday
+
+Canada
+Daylight saving begins on March 13
+Mother's Day falls on its earliest possible date, May 8
+Victoria Day falls on May 23
+Father's Day falls on June 19
+Canada Day falls on a Friday
+Labour Day falls on September 5
+Thanksgiving Day falls on October 10
+Daylight saving ends on November 6
+
+United States
+Martin Luther King Jr. Day falls on January 17
+President's Day falls on its latest possible date, February 21
+Daylight saving begins on March 13
+Mother's Day falls on its earliest possible date, May 8. This is the only type of year when President’s Day to Mother’s Day are only 76 days apart. They are 83 days apart in all other years
+Memorial Day falls on May 30
+Juneteenth and Father's Day coincide on Sunday, June 19
+Independence Day falls on a Monday
+Labor Day falls on September 5
+Grandparents' Day falls on September 11
+Columbus Day falls on October 10
+Daylight saving ends on November 6
+Thanksgiving Day falls on November 24
+
+
+== References ==
